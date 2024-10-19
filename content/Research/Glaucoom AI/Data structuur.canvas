@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"de21161446d28f52","type":"text","text":"Rotterdam study:\n- EMC bevolkingsonderzoek\n- bruikbare glaucoom data 1986-2016\n\t- niet in 1994\n- meerdere metingen over de tijd\n- fundusfoto's \n\t- papilscore t/m 2003 = proxy label fundusfoto REGAIS\n- FDT -> nog eens FDT -> als nog steeds missend -> HFA -> glaucoom evaluatie door 2 (onafhankelijke) specialisten\n\t- als door niks anders kan worden verklaard: glaucomateus verklaard\n\t- GVFL: gezichtsveldverlies is relevant voor patiënt en screening\n- OCT wisselend\n","x":-370,"y":-600,"width":550,"height":420},
+		{"id":"7b2d6b0d89d56ae5","type":"text","text":"Glaucoom data \n- als glaucoom: inclusie t.t.v. diagnose\n\t- eerste data/foto/diagnose door experts\n- als geen glaucoom: random tijdstip\n\t- rationale: camera variatie uitlevelen\n\n","x":-560,"y":100,"width":380,"height":240},
+		{"id":"356a156dddf4c341","type":"text","text":"Exclusie Bastiaan:\n- iedere patiënt 1x per oog\n- tussen 50-80j\n","x":-530,"y":-120,"width":320,"height":140},
+		{"id":"45d4c10fb0f0f761","type":"text","text":"AI oorsprong: Lemij et al\nREGAIS data: ~114k gelabelde fundusfoto's\nwel/geen referable glaucoma\n- foto goed verschilt van GON_ODS: want die gaat alleen over de papil\n\nspecialist: referable glaucoma obv fundusfoto\nAI: sens 85%, spec 95% -> vergelijkbaar met experts","x":380,"y":100,"width":420,"height":300},
+		{"id":"c9ea631c4d7ec6de","type":"text","text":"To do \n\nAI zegt niet, HFA zegt wel = 241 fout negatief\nonderzoek OCT en fundus handmatig\ninteressant want:\n- deze patiënten mis je bij screening op opticien\n- expert had het misschien ook niet gezien, ALS foto normaal EN/OF ALS OCT normaal?\n\t- m.a.w. hadden we echt niet anders dan met HFA kunnen weten dat het glaucoom is?\n- en vertelt ons ook waarom huidige AI sensitiviteit tegenvalt.","x":-560,"y":490,"width":520,"height":390,"color":"5"},
+		{"id":"97c6b4b090f27901","type":"text","text":"> [!question] Vraagstelling\n> kan de AI obv de fundusfoto's de HFA detecteren\n\n- als expert en AI denken geen glaucoom -> overeenkomst\nonze probleem patiënt: obv HFA weten we glaucoom, maar fundusfoto geeft hier absoluut geen aanwijzing voor.\n\nin Rotterdam data: is papil goed een proxy voor foto goed -> maar met alle haken en ogen","x":110,"y":625,"width":480,"height":355},
+		{"id":"108a9f1f080897e0","type":"text","text":"Algoritme data\n\n> [!NOTE] doel bij spec 95% zo hoog mogelijke sensitiviteit\n> AI op hetzelfde moment dezelfde kans op glaucoom kan geven als medische experts\n> bijv mensen met hoog risico bij opticien herkennen\n\n- AI scoort fundusfoto van elke patiënt\n\t- likelihood voor gradbility\n\t- likelihood voor glaucoom\n- macula-centered foto's: DRP setting ","x":-80,"y":60,"width":380,"height":420},
+		{"id":"5f41bd9385c71aed","type":"text","text":"Welke aantallen? \nWelke data nog meer?\n- OCT?\n- HFA?\n- IOP\n\nals glaucoom in VG genoemd: overgenomen","x":300,"y":-380,"width":250,"height":200,"color":"1"}
+	],
+	"edges":[
+		{"id":"4c77f26aa59a42d1","fromNode":"356a156dddf4c341","fromSide":"bottom","toNode":"7b2d6b0d89d56ae5","toSide":"top"},
+		{"id":"9eb0083f46ed786d","fromNode":"de21161446d28f52","fromSide":"left","toNode":"356a156dddf4c341","toSide":"top"},
+		{"id":"dbc5c733c357cd6a","fromNode":"5f41bd9385c71aed","fromSide":"left","toNode":"de21161446d28f52","toSide":"right"},
+		{"id":"5e30030e435f5c9d","fromNode":"de21161446d28f52","fromSide":"bottom","toNode":"108a9f1f080897e0","toSide":"top"},
+		{"id":"cc8c3f4164fdfdfe","fromNode":"45d4c10fb0f0f761","fromSide":"left","toNode":"108a9f1f080897e0","toSide":"right"},
+		{"id":"7a06fd56a7fccfeb","fromNode":"97c6b4b090f27901","fromSide":"top","toNode":"108a9f1f080897e0","toSide":"bottom"}
+	]
+}

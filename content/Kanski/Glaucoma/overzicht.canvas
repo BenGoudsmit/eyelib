@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"bebc2975e208f3ee","type":"text","text":"Glaucoom","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"4b5282aca9c2d0ee","type":"text","text":"IOP: kamerwater balans","x":-125,"y":80,"width":250,"height":60},
+		{"id":"546768f79e812e2e","type":"text","text":"corpus ciliare: productie","x":-300,"y":180,"width":250,"height":60},
+		{"id":"3ced25c84526d878","type":"text","text":"trabekelsysteem: afvoer","x":60,"y":180,"width":250,"height":60},
+		{"id":"c510b1c664f91d00","type":"text","text":"Gesloten kamerhoek","x":185,"y":0,"width":250,"height":60},
+		{"id":"4b20ad1e8ed1ef02","type":"text","text":"Open kamerhoek","x":-460,"y":20,"width":250,"height":60},
+		{"id":"1e4903c79f090b6d","type":"text","text":"Primair: iridotrabeculair contact","x":545,"y":-26,"width":250,"height":60},
+		{"id":"1bdb62d0acd713b7","type":"text","text":"Secundair: pupil blokkeert of niet. ","x":570,"y":88,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"e1bca90273a14acf","fromNode":"4b5282aca9c2d0ee","fromSide":"bottom","toNode":"546768f79e812e2e","toSide":"top"},
+		{"id":"ebc5b0d42959f8f1","fromNode":"4b5282aca9c2d0ee","fromSide":"bottom","toNode":"3ced25c84526d878","toSide":"top"},
+		{"id":"e33870cb46f75676","fromNode":"bebc2975e208f3ee","fromSide":"bottom","toNode":"4b5282aca9c2d0ee","toSide":"top"},
+		{"id":"a58fc5d4f8844dae","fromNode":"bebc2975e208f3ee","fromSide":"left","toNode":"4b20ad1e8ed1ef02","toSide":"top"},
+		{"id":"7d0d2e079cfaad6a","fromNode":"bebc2975e208f3ee","fromSide":"right","toNode":"c510b1c664f91d00","toSide":"top"},
+		{"id":"e89803d43e1468ab","fromNode":"c510b1c664f91d00","fromSide":"bottom","toNode":"4b5282aca9c2d0ee","toSide":"right"}
+	]
+}

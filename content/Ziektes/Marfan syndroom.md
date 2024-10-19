@@ -1,0 +1,5 @@
+- AD inheritance (gene: FBN1) with variable expressivity.
+- Musculoskeletal features include a tall, thin stature with disproportionately long limbs (arm span > height), long fingers and toes (arachnodactyly), a narrow high-arched (‘gothic’) palate.
+- Kyphoscoliosis, sternal abnormalities, mild joint laxity, muscular underdevelopment and predisposition to hernias.
+- Cardiovascular lesions include dilatation of the aortic root, mitral valve prolapse and aortic aneurysm formation.
+- bilaterale [[Ectopia lentis]] in 80%, meestal superolateraal

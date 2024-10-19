@@ -1,0 +1,1 @@
+The eye is involved in 4% to 10% of patients and a wide spectrum of inflammatory conditions may be found. Acute episcleritis, acute anterior uveitis and marginal keratitis
