@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"82ddd0e8a44cb371","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Erfelijke fundus dystrofie"},
+		{"id":"1ae0253debe7d609","x":-300,"y":160,"width":250,"height":60,"type":"text","text":"Staafjes-kegeltjes"},
+		{"id":"6bd3780c056b5c7c","x":40,"y":160,"width":250,"height":60,"type":"text","text":"Kegeltjes"}
+	],
+	"edges":[]
+}

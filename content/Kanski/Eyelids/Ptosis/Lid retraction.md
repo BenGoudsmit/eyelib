@@ -1,0 +1,5 @@
+Terugtrekkend (boven) ooglid
+milde gevallen: Müller resectie
+ernstiger: levator aponeurosis recessie
+
+![Table 2.5 Causes of Lid Retraction 1. Thyroid eye disease (Fig. 2.76A) 2. Neurogenic • • • • • • • • Contralateral unilateral ptosis (Fig. 2.76B) Unopposed levator action due to facial palsy Third nerve misdirection Marcus Gunn jaw-winking syndrome Collier sign of the dorsal midbrain (Parinaud syndrome — see Fig. 19.84D) Infantile hydrocephalus (setting sun sign — Fig. 2.76C) Parkinsonism (Fig. 2.76D) Sympathomimetic drops 3. Mechanical • Surgical over-correction of ptosis • Scarring of upper lid skin 4. Congenital • Duane retraction syndrome • Down syndrome • Transient 'eye popping' reflex in normal infants 5. Miscellaneous • Prominent globe (pseudo-lid retraction) • Severe liver disease (Summerskill sign) • Idiopathic ](Exported%20image%2020240525074951-0.png)

@@ -1,0 +1,1 @@
+Waarom ontstaat micropsie en macropsie als in de fovea kegels dichter of verder van elkaar af komen te staan?

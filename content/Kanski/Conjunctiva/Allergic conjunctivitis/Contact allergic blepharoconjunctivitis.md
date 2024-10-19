@@ -1,0 +1,1 @@
+T-cel gemedieerde hypersensitivteit, acuut op reagens.

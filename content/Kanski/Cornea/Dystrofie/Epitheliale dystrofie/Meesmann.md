@@ -1,0 +1,3 @@
+epitheliale dystrofie
+abnormaal epitheliaal metabolisme
+niet progressief

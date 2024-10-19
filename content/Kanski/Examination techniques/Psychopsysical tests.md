@@ -1,0 +1,2 @@
+Snellen:
+- Slechtste oog eerst
