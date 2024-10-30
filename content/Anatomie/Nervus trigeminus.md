@@ -1,1 +1,0 @@
-Hier ook experimenteren met canvas?
