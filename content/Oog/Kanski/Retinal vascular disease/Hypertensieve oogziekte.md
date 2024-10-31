@@ -1,21 +1,24 @@
 hypertensie -> reactie arteriolen: vasoconstrictie -> door stijvere vaten kan dit minder goed
 atherosclerose geeft stijvere arteriolen met dikkere wanden
-[[arteriovenous nipping]] is pathognomisch voor hoge bloeddruk, zelfs als die nu goed is!
+
 vaten worden een hardere, stijvere buis -> minder drukregulatie
 aanhoudende hypertensie: vaatwanden aangedaan -> oedeem, bloedingen
+
+### kliniek
 
 vroege tekens:
 - Verminderde arteriole kaliber (vasoconstrictie bij hypertensie)
 - vergroot venulair kaliber
 - venulaire tortuositeit
-![[Pasted image 20240606143945.png]]
+- [[arteriovenous nipping]] is pathognomisch voor hoge bloeddruk, zelfs als die nu goed is!
+### classificatie hypertensieve oogziekte
 graad 1: 
-- algemene, milde versmalling
+- algemene, milde versmalling arteriolen
 graad 2: 
 - focale arteriole versmalling, 
-- 'nipping' arterioveneus: harde vaatwanden door atherosclerose 
-- 'copper wiring': doorzichtig aspect arteriole wand
-graad 3: 
+- [[arteriovenous nipping]]: harde vaatwanden door atherosclerose 
+- [[copper wiring]]: doorzichtig aspect arteriole wand
+graad 3: (vaatwanden gecompromitteerd)
 - graad 2 + bloedingen (vlamvormig, dot-blot), 
 - chronisch oedeem -> [[macular star]] , [[cotton-wool spots]]
 graad 4: 

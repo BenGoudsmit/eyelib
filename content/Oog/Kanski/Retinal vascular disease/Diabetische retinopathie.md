@@ -59,7 +59,7 @@ proliferatief:
 #### microaneurysmata:
 - pericyten sterven af -> minder steun -> verbreding vat 
 - of doordat vaten kunnen aan elkaar groeien
-- vaak in ganglion cellaag
+- vaak in [[ganglion cell layer]]
 - bij gebieden van ischemie
 - bloed-retina barriere aangedaan -> lekkage plasma, risico trombose
 - vaak eerst temporaal van fovea
