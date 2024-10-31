@@ -1,4 +1,6 @@
 hypertensie -> reactie arteriolen: vasoconstrictie -> door stijvere vaten kan dit minder goed
+atherosclerose geeft stijvere arteriolen met dikkere wanden
+[[arteriovenous nipping]] is pathognomisch voor hoge bloeddruk, zelfs als die nu goed is!
 vaten worden een hardere, stijvere buis -> minder drukregulatie
 aanhoudende hypertensie: vaatwanden aangedaan -> oedeem, bloedingen
 
