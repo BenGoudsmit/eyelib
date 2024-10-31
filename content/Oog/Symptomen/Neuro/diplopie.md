@@ -18,3 +18,11 @@ brede DD
 - zenuw
 - spieren
 - neuromusculaire junctie
+
+# klinische work-up:
+1. horizontaal of verticaal?
+## horizontale binoculaire diplopie
+oorzaken:
+spieren, zenuwen ([[Nervus oculomotorius|CN-III]] en [[Anatomie/Orbita en oogleden/Nervus abducens|CN-VI]]), of neuromusculaire junctie van: 
+- [[Musculus rectus medialis|rectus medialis]]: toename dichterbij (convergentie moeilijk)
+- [[musculus rectus lateralis|rectus lateralis]]: toename veraf 
