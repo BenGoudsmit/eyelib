@@ -23,7 +23,7 @@ problemen die o.a. verminderde redox staat, vasoconstrictie, ontstekingscellen g
 	- minder bloedstroom (stase: Virchow triad)
 - diffusie van voedingsstoffen en metabolieten
 - pericyt verlies -> door toxische glycatie producten -> structurele integriteit bloedvaten weg
-	- [[venous beading]] en micro-aneurysmata
+	- [[Histopathologie/venous beading]] en micro-aneurysmata
 - endotheelschade -> hypertrofie -> tight junctions tussen endotheel kapot
 > [!question]- Virchow triad?
 > endotheelschade, hypercoagulatie, stasis van bloed
@@ -37,7 +37,7 @@ bovenstaande geeft:
 niet proliferatief:
 - geen/achtergrond DRP: enkele micro-aneurysmata
 - milde DRP: bloedinkjes, [[cotton-wool spots]], exudaten
-- moderate: IRMA's, 1-3 kwadranten met >20 bloedingen, [[venous beading]] in 1 kwadrant
+- moderate: IRMA's, 1-3 kwadranten met >20 bloedingen, [[Histopathologie/venous beading]] in 1 kwadrant
 - severe: 1 van de 4-2-1 regel: 4 kwadranten veel bloedingen, 2 kwadranten met venous beading, 1 of meer kwadranten met IRMA
 	- 15% 1-jaars kans proliferatieve DRP
 - very severe: 2 of meer 4-2-1 criteria
@@ -56,7 +56,7 @@ proliferatief:
 
 ### tekens
 
-#### microaneurysmata:
+#### [[microaneurysmata]]:
 - pericyten sterven af -> minder steun -> verbreding vat 
 - of doordat vaten kunnen aan elkaar groeien
 - vaak in [[ganglion cell layer]]
@@ -110,15 +110,19 @@ lokale ischemie axonen, zwellen op, maar worden weer opgeruimd
 oppervlakkige laesies die onderliggende vaten bedekken ![[Pasted image 20240605201923.png]]
 #### veneuze veranderingen
 reageren op ischemie
-verwijding, tortueuze vaten, looping, beading (als kralen)
+verwijding, tortueuze vaten, looping, [[Symptomen/Retina vasculair/venous beading|venous beading]] (als kralen)
 
 ![[Pasted image 20240605201851.png]]
 
 
 #### intraretinal microvasculaire abnormaliteiten - IRMA
+komen vanuit normale vaten
 shunts arteriolen-venulen rond ischemie
 bypassen capillairen
 lopen niet over grotere bloedvaten heen!
+vaak in de buurt van [[cotton-wool spots]] (daar is ischemie)
+> [!NOTE] IRMA's zijn bestaande vaten, dus geen neovascularisatie
+> komen uit normale vaten, typisch ook wat groter kaliber en donkerder (dieper in de retina)
 
 ![[Pasted image 20240605202320.png]]
 

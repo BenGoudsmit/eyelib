@@ -9,8 +9,9 @@ aliases:
 ### Kliniek 
 
 > [!NOTE] Klinische beoordeling
-> - PKPL in niveau?
-> - PKPL helder? (of ondoorzichtigheid, ontsteking, etc)
+> - PKPL in niveau? (of naar voren gedrukt?)
+> - PKPL helder? (of ondoorzichtigheid, zwelling, ontsteking, etc)
+> 	- epitheel? stroma? endotheel?
 > - PKPL aankleuring? Seidell?
 > - rejectie?
 > 	- Descemet beslag?

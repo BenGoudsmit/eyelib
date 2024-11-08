@@ -2,7 +2,7 @@
 # Myasthenia gravis
 zie [filmpje](https://www.youtube.com/watch?v=vgc_xDxAvK8&ab_channel=Neuro-OphthalmologywithDr.AndrewG.Lee)
 auto-immuun ziekte
-antilichamen tegen acetylcholine receptoren in gestreept spierweefsel
+antilichamen tegen [[acetylcholine]] receptoren in gestreept spierweefsel
 neuromusculaire junctie dysfunctie van skeletspieren
 myasthene crisis: dodelijk door ademhaling die niet meer gaat
 hartspier en onvrijwillige spieren niet aangedaan

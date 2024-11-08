@@ -46,11 +46,13 @@ gradering:
 A: 
 - haze glasvocht
 - RPE pigment -> tabacco dust
+
 B: 
 - retina kreukelt
 - kan scheuren, opkrullende randen
 - wordt stijver
 - typisch zie je de epiteretinale membranen niet
+
 C:
 - plooien van retina (vaak stervormig)
 - condensatie van glasvocht

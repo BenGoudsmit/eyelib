@@ -4,14 +4,17 @@ retina wordt voorzien door [[arteria centralis retinae]], behalve staafjes en ke
 arteriolen komen voort uit a. centralis retinae, 
 - hebben een onderbroken endotheelwand (i.t.t. acr)
 - glad spierweefsel
+
 hieruitvoorkomend: capillairen
 - endotheel
 - basaalmembraan
 - pericyten
+
 retina voorziening:
 binnenste 2/3e: capillairen
-- binnenste plexus ligt in ganglion cellaag
-- buitenste plexus ligt in interne cellaag
+- binnenste plexus ligt in [[ganglion cell layer]]
+- buitenste plexus ligt in [[internal nuclear layer]]
+
 capillairen bestaan uit: endotheel, tight junctions
 buitenste 1/3e: a. cliaris posterior
 
