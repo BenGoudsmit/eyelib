@@ -1,6 +1,16 @@
+---
+aliases:
+  - Graves
+  - Graves orbitopathie
+  - TED
+---
+
+### introductie
 Meest voorkomende oorzaak van proptosis in volwassenen.  
 Graves: IgG's binden aan TSH receptoren schildklier -> hyperthyreoïdie.  
-Klachten: gewichtsverlies ondanks eten, darmklachten, zweten, hitte, nervositeit, irritatie, palpitatie, zwakte, vermoeidheid.
+Thyrotoxitosis klachten: gewichtsverlies ondanks eten, darmklachten, zweten, hitte, nervositeit, irritatie, palpitatie, zwakte, vermoeidheid.
+
+Graves: Antilichamen die tegen schildklier reageren, kunnen ook op orbitale weefsels reageren
  
 ROKEN en Graves gaan niet samen! Direct stoppen -> geeft ontsteking.
  
@@ -25,7 +35,7 @@ Dalrymple sign: retractie in neutrale blik
 Kocher sign: verschrikte aanblik
 Von Graefe sign: vertraagd zakken van bovenooglid bij naar beneden kijken
 
-Hoog T4 -> sympaticus -> overactivatie van Müller spieren
+Hoog T4 -> sympaticus -> overactivatie van Müller spieren 
 Fibrotische contracturen van levator palpebrae en inferior rectus.
 ![[Pasted image 20240720132954.png]]
 #### [[proptosis]] 
@@ -79,7 +89,7 @@ Ernstigere ziekte: dempen acute ontsteking voor betere uitkomsten lange termijn!
     - Conjunctivale roodheid door actieve TED inflammatie
     - Ontsteking van caruncle of plica.
     - Daarbij op 2e review een punt als:
-        - > 2mm proptosis
+        - mintens 2mm proptosis
         - Verminderde bewegelijkheid vanaf 8 graden
         - 1 lijn minder zien in Snellen
 - Oraal prednison, 1e effect na 24u, respons maximaal na 2-8 weken.

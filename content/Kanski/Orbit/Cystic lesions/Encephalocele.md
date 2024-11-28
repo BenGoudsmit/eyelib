@@ -4,7 +4,7 @@ Kan dura zijn (meningocele) of dura en hersenen (meningocephalocele)
 Symptomen:
 - Anterior vorm: globus naar voren en lateraal.
 - Posterior vorm: globus naar voren en omlaag
-    - Associatie met [[Neurofibromatose#Neurofibromatose 1]]
+    - Associatie met [[Neurofibromatose#NF-1|NF-1]] 
 - Typisch op kinderleeftijd ontdekt.
 - Door drukverhoging of huilen -> klachten erger.
 - Er kan [[pulsatiele proptosis]] zijn _zonder_ geruis (geen vasculaire bron)

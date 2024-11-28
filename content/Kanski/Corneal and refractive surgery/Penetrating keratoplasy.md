@@ -38,7 +38,7 @@ normale grootte is 7.5mm
 #### Complicaties 
 zijn die van chirurgie
 
-#### Afstoting: 
+#### Afstoting (rejectie): 
 typische meerdere lagen (maar elke laag afzonderlijk kan ook)
 kan dagen tot jaren na CTx
 - cornea geen vascularisatie en weinig antigeen presenterende cellen
@@ -52,11 +52,12 @@ Symptomen:
 - stromaal: diepe haze
 - endotheel: <span style="background:#fff88f">Khodadoust</span> lijn
 
+![[Pasted image 20240521100852.png]]
+
 Behandeling:
 - hoe sneller: hoe beter!
 - steroïden
 - overige immuunsuppresiva
 - IOP monitoren
-![[Pasted image 20240521100852.png]]
 
 Mocht je paracentese moeten doen: altijd in recipiënt, nooit in donor. 

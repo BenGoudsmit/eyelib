@@ -16,7 +16,7 @@ oorzaken:
 
 in de sinus cavernosus nauwe relatie met II en IV, alsook carotis interna
 intracavernose pathologie gepaard met: IV, V1 en VI laesies
-oorzaken: diabetes, aneurysmata, [[Carotid-caverneus fistel]], granulomateuze onstekingen vaten ([[Ziektes/Tolosa-Hunt syndroom]])
+oorzaken: diabetes, aneurysmata, [[Carotid-caverneus fistel]], granulomateuze onstekingen vaten ([[Kanski/Orbit/Non-infective inflammatory disease/Tolosa-Hunt syndroom|Tolosa-Hunt syndroom]])
 
 ![[Pasted image 20240705081817.png]]
 

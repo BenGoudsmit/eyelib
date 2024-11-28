@@ -21,10 +21,10 @@ Meestal:
 - Behandeling:
     - 60% lost spontaan op binnen 5 dagen.
     - topicale antibiotica: geen bewijs voor verschillen
-    - chlooramfenicol weinig in VS gebruikt → cave aplastische anemie
+    - [[chlooramfenicol]] weinig in VS gebruikt → cave aplastische anemie
     - gonococ of meningococ: quinolone of genta
 - Systemische behandeling:
-    - gonococ, meningococ -> ceftriaxon -> 30% ontwikkelt systemisch zonder AB!
+    - gonococ, meningococ -> [[ceftriaxon]] -> 30% ontwikkelt systemisch zonder AB!
     - H. Influenza -> augmentin, vooral in kinderen (cave 25% otitis en andere systemische infecties)
     - preseptale of orbitale cellulitis
 - Overige behandelingen:

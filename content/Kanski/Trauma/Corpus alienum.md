@@ -7,7 +7,7 @@ vaak infiltraat van leuko's rondom, bij ijzer vaak roest
 milde secundaire uveïtis kan optreden (irritatieve miosis en fotofobie)
 met steriele naald verwijderen
 met steriele boor roestring verwijderen
-trafloxal zalf
+[[trafloxal]] of [[tobradex]] zalf
 soms steroïden of cycloplegie
 blijf bedacht op eventuele resterende corpora aliena en bacteriële ontstekingen
 

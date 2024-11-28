@@ -7,7 +7,7 @@
 - Soms in opticus
 - Prognose voor volwassenen goed
 - Voor kinderen (25%) slecht
-- Associatie [[neurofibromatoze type 2 - NF2]].
+- Associatie [[Neurofibromatose#NF-2|NF-2]].
  
 Symptomen:
 - Geleidelijk zichtsverlies

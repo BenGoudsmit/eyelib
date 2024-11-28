@@ -1,5 +1,6 @@
 kan erg lastig zijn te managen.
 associatie met [[Staphylococcus aureus]] 
+
 anterior blepharitis: bases van de wimpers
 - door Aureus
 - of door seborrhoïsch: dan vettiger en schilferiger
@@ -20,7 +21,9 @@ Demodex mijt kan hierna extra ziektelast veroorzaken
 geen genezing mogelijk, wel verlichting symptomen
 ooglidhygiëne 1-2 daags 
 Topicale AB voor actieve folliculitis 
-Systemische AB: [[doxycycline]] of andere [[tetracyclines]], eventueel [[azitromycine]]
+Systemische AB: 
+- anterior: [[doxycycline]] of 
+- posterior: andere [[tetracyclines]], eventueel [[azitromycine]]
 als ernstige ontsteking: lage dosis prednison druppels
 kunsttranen
 visolie, tea tree oil 

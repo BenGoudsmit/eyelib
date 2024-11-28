@@ -1,12 +1,14 @@
 Trombose in [[sinus cavernosus]] -> met behandeling alsnog 20% mortaliteit.
  
 Meestal ten gevolg van: sinusitis, orbitale cellulitis, otitis
- 
-Symptomen:
-- Proptosis
+### kliniek
+snel progressief
+hoofdpijn, malaise, braken
+Oculair:
+- Proptosis (bilateraal of unilateraal)
 - Chemosis
 - Veneuze uitstroom problemen
-- Uitval nervus 3 tm 6
+- Uitval nervus 3 tm [[Nervus abducens|CN 6]]
  
 Diagnose met MRI
  

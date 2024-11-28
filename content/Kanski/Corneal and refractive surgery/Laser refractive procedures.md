@@ -2,7 +2,7 @@
 > [!NOTE] lenzen uit
 > Voordat je lasert: lenzen uit laten doen. Zachte: 2w, harde 3w
 
-### <span style="background:#fff88f">LASIK</span>: laser in situ keratomileusis
+### LASIK: laser in situ keratomileusis
 - excimer laser abbleert weefsel zeer nauwkeurig, bijna zonder bijschade omliggend.
 	- oppervlakkige flap maken
 	- daarna stroma dikte aanpassen met laser
@@ -38,7 +38,9 @@ Nadelen tov LASIK:
 - postoperatieve ongemak onvoorspelbaar
 
 Echter: er is geen flap -> dus geen risico's daarmee
-Ook geïndiceerd bij personen met dunne cornea's
+Geïndiceerd bij:
+- personen met dunne cornea's
+- hogere risico's op beschadiging cornea (beroepsmatig)
 
 Stappen:
 - cornea epitheel wordt verwijderd

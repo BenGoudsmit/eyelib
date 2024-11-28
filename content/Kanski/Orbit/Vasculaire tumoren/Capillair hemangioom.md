@@ -31,7 +31,7 @@ Symptomen:
  
 ### Behandeling
 - Wanneer amblyopie
-- Betablokkers (zie Zenya): topicaal timolol, oraal propranolol.
+- Betablokkers (zie Zenya): topicaal [[timolol]], oraal [[propranolol]].
 - Injectie steroïden: in vroege fase effectief, effect na 2w
     - Cave occlusie [[arteria centralis retinae]]
 - Systemisch kan wanneer ernstigere vormen.

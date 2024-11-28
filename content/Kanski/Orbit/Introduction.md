@@ -21,9 +21,8 @@ Bovenste deel:
 - Nervus lacrimalis, frontalis en nervus trochlearis
 - Vena opthalmica superior
     - Relevantie:
-        - [[Ziektes/Tolosa-Hunt syndroom]]: ontsteking fissura sup ->
+        - [[Kanski/Orbit/Non-infective inflammatory disease/Tolosa-Hunt syndroom|Tolosa-Hunt syndroom]]: ontsteking fissura sup ->
         verdrukking -> [[Ophthalmoplegie]] en uitstroom probleem!
-        
 
 Onderste deel:
 - Nervus oculomotorius inferior en superior deel

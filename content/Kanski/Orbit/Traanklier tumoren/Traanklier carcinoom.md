@@ -1,6 +1,10 @@
-- Zeldzaam, hoge mortaliteit.
-- Maligne mixed-cell tumor
-- Typering (meest -> minst): adenoïdaal cysteus, pleiomorf adenocarcinoom, mucoepidermoïd, plaveiselcel
+Zeldzaam, hoge mortaliteit.
+Maligne mixed-cell tumor
+Typering (meest -> minst): 
+- adenoïdaal cysteus, 
+- pleiomorf adenocarcinoom, 
+- mucoepidermoïd, 
+- plaveiselcel
  
 Symptomen:
 - Massa in traanklierregio: typisch ==snellere groei dan benigne==
@@ -15,3 +19,5 @@ Aanvullend onderzoek:
 Behandeling:
 - Resectie (slechte prognose)
 - Eventueel RT
+
+![[Pasted image 20241118084207.png]]

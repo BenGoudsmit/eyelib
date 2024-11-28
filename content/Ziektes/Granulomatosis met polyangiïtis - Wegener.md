@@ -1,3 +1,12 @@
+---
+aliases:
+  - GPA
+  - granulomatose met polyangiitis
+  - granulomatosis met polyangiitis
+  - Wegener
+  - Wegener's 
+---
+
 idiopatische granulomateuze systeemziekte
 vasculitis kleine vaten
 Systemisch vaak:
@@ -10,7 +19,7 @@ vaker in mannen, typische presentatie rond 50j
 
 Symptomen:
 - Orbita:
-	- Bilaterale orbitale ontsteking [[Kanski/Orbit/Non-infective inflammatory disease/Non-infective inflammatory disease|Non-infective inflammatory disease]], gepaard met sinuspathologie
+	- Bilaterale orbitale ontsteking [[Non-infective inflammatory disease|Non-infective inflammatory disease]], gepaard met sinuspathologie
 - Cornea:
 	- [[Perifere corneale verdunning - ulceraties - PUK]] oftewel PUK
 

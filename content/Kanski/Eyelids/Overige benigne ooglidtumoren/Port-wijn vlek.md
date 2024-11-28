@@ -7,7 +7,7 @@ op 1 of meerdere trigeminus gebieden
 
 ### behandeling
 laser
-screen voor glaucoom!
+<span style="background:#fff88f">screen voor glaucoom!</span>
 zie [[Kanski/Glaucoma/glaucoom in phacomatose/Sturge-Weber syndroom|Sturge-Weber syndroom]]
 
 ![[Pasted image 20240716191929.png]]

@@ -1,8 +1,8 @@
 Serieuze infectie die gezichtsveld kan bedreigen.  
-Staph aureus, Strep pyogenes, H Influenzae  
+[[Staphylococcus aureus]], [[Streptococcus pyogenes]], [[Haemophilus influenzae]]
 Typisch vanuit sinus (paranasaal, etmoid)
  
-Kliniek:
+### Kliniek:
 - Snel opzettend, pijnlijk
 - Vaak anamnese positief voor infectie KNO gebied
 - Koorts

@@ -4,7 +4,7 @@ Introductie:
 - dsDNA overleeft weken op droge oppervlakken.
 - Transmissie contact met respiratoire of oculaire secreties.
 
-![Fig. 6.9 Adenoviral keratoconjunctivitis. (A) Follicular conjunctivitis; (B) pseudomembrane; (C) residual scarring; (D) subepithelial infiltrates ](Exported%20image%2020240514103421-0.png)
+![[Pasted image 20241126172757.png]]
 
 Presentatie:
 - Varieert van mild tot ernstig
@@ -12,7 +12,7 @@ Presentatie:
     - Waterig, rood, irritatie, jeuk, lichte fotofobie
     - Unilateraal -> 1-2 dagen daarna het andere oog
     - Ouders kunnen zijn aangedaan, of neus/keel verkouden.
-- Faryngocuncjunctivaal -> vanuit KNO gebied conjunctivitis, vaak met keelpijn
+- Faryngoconjunctivaal -> vanuit KNO gebied conjunctivitis, vaak met keelpijn
 - Epidemie adenovirus: vaak met keratitis.
 - Acute hemorrhagische conjunctivitis:
     - tropisch, enterovirus, coxsackievirus
@@ -22,7 +22,7 @@ Presentatie:
 - Molluscum contagiosum:
     - Huidinfectie door dsDNA virus in gezonde kinderen, tussen 2-4 jaar.
 
-![(Mone) uogsał e qumpałeposse (8) :uołsat wnasnłl% (V) OVS ](Exported%20image%2020240514103421-1.png)  
+![[Pasted image 20241126173101.png]]  
 
 Symptomen:
 - Ooglid oedeem
@@ -42,7 +42,7 @@ Aanvullend onderzoek:
 Behandeling adenovirus:
 - Spontane genezing meestal in 2-3 weken.
 - Verspreiding voorkomen: zeer goede handhygiëne, niet aan de ogen zitten.
-    - Voor de onderzoeker: ontsmet alles met natrium hypochloriet of ￼pivodon-iopidine
+    - Voor de onderzoeker: ontsmet alles met natrium hypochloriet of pivodon-iopidine
 - Steroïden versterken virale deling en ondrukken afweer -> alleen gebruiken bij ernstige (pseudo)membraneus beeld.
 - Molluscum contagiosum weghalen: verhoogt kans op recidieven.
 - Overige maatregelen:

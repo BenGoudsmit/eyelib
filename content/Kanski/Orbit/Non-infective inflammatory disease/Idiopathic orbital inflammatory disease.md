@@ -3,7 +3,7 @@ Inflammatie -> infiltraten -> fibrose
 Uitgebreide firbose: =='frozen orbit'==
  
 Kliniek is veelal hetzelfde als van bacterieel, komt wel langzamer opzetten en verdwijnt vaak na enkele weken.  
-Een klein deel ontwikkeld uitgebreide fibrose.
+Een klein deel ontwikkelt uitgebreide fibrose.
  
 ### Aanvullend onderzoek
 - CT/MRI
@@ -16,3 +16,5 @@ Een klein deel ontwikkeld uitgebreide fibrose.
 - Overig medicamenteus
 - RT
 - Chirurgie
+
+![[Pasted image 20241117102430.png]]

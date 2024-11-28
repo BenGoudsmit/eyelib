@@ -27,6 +27,9 @@ niet gepigmenteerde DD:
 
 ### aanvullend onderzoek
 echo (afmetingen, zeker als je niet kunt zien door bloeding)
+- typisch paddenstoel vorm
+- Vascularisatie: veel en dus kan snel groeien
+
 autoflu (intense hyperfluo)
 FAG weinig info, ICG hypofluo
 OCT

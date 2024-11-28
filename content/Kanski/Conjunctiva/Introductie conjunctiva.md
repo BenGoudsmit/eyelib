@@ -31,14 +31,14 @@ Conjunctivale reactie
 - hyperaemie: diffuse conjunctivale vaatinjectie
 - bloedingen: klein in viraal, groter bij bacterieel
 - chemosis: conjunctivaal oedeem
-- door hypersensitiviteit (bijv pollen) of bij infectie
-- door verhoogde vasculaire permeabiliteit
-- door verhoogde veneuze druk
-- minder eiwitten in bloed (bijv nefrotisch syndroom)
+	- door hypersensitiviteit (bijv pollen) of bij infectie
+	- door verhoogde vasculaire permeabiliteit
+	- door verhoogde veneuze druk
+	- minder eiwitten in bloed (bijv nefrotisch syndroom)
 - membranen: 
 	- pseudo: gecoaguleerd exudaat (wegschraapbaar boven epitheel) of 
 	- echt van epitheel → verlittekenen (cicatrization → kan entropion geven)
-		- adenovirus, gonococcen, sommige bacteriën (streptococ, corynebacterium), Stevens-Johnson syndroom.
+		- adenovirus, gonococcen, sommige bacteriën (streptococ, corynebacterium), [[Steven-Johnson syndrome]].
 - infiltraten: cellen worden aangetrokken voor ontsteking. → je ziet de conjunctivale vaatjes vaak niet meer.
 ![[Pasted image 20240721101655.png]]
 

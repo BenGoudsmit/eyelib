@@ -1,4 +1,6 @@
 weefsel met wisselend kaliber vaten
+een van de meest voorkomende tumoren op kinderleeftijd
+3:1 vrouw/man
 kort na geboorte al zichtbaar, helderrood, hoe dieper hoe paarser
 wordt groter bij huilen
 

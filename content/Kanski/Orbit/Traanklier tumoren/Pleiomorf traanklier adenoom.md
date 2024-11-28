@@ -7,3 +7,5 @@ Symptomen:
 - Groter: massawerking
  
 Behandeling: resectie, bij voorkeur zonder punctie (cave verspreiding cellen -> tenzij er twijfels zijn)
+
+![[Pasted image 20241118084034.png]]

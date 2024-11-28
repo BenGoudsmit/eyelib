@@ -40,7 +40,7 @@ Diagnose:
         - Waterig: chemisch en viraal
         - Mucopurulent: chlamydia
         - Purulent: bacterieel
-        - Hyperpurulent: gonorroe
+        - Hyperpurulent: gonorroe![[Pasted image 20241113133641.png]]
     - Ooglidoedeem: gonorroe
         - Kan erg lijken op preseptale of orbitale infectie!
     - Blaasjes: HSV -> snel onderscheid in vroege fase belangrijk!
