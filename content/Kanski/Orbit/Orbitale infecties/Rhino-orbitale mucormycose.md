@@ -9,9 +9,9 @@ Kliniek:
 - Sluit andere oorzaken van zwelling uit
  
 Behandeling:
-- Antischimmel
 - Onderliggend lijden behandelen
 - Resectie necrose
+- Antischimmel
 
 ![[Pasted image 20241117102148.png]]
 

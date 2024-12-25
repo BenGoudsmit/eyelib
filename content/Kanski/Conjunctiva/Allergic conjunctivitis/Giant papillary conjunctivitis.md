@@ -1,4 +1,5 @@
 Mechanisch geïnduceerde papillaire conjunctivitis  
+1 mm papillen is giant
 Reactie op stimuli -> contactlenzen
  
 Symptomen:

@@ -16,7 +16,7 @@ Symptomen:
 - Vroege kinderleeftijd ontdekt: 30% al bij geboorte aanwezig.
     - Snelle groei: 3-6m na diagnose
     - Daarna afname: 30% 3j, 75% 7j
-- Als oppervlakkig: '==strawberry== naevus': felrode kleur
+- Als oppervlakkig: =='strawberry naevus'==: felrode kleur
 - Diepere (preseptale) laesies: blauw/paars
 - Kan donkerder kleuren met druk/huilen
     - Geen pulsaties of geruis!

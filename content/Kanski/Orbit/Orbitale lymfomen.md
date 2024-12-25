@@ -6,6 +6,7 @@ Tekenen:
 - Typisch weinig klachten
 - Kan in gehele orbita voorkomen
 - Typisch ==rubber-achtig== aspect bij palpatie
+- ==Salmon patch== conjunctiva
  
 Aanvullend onderzoek:
 - MRI

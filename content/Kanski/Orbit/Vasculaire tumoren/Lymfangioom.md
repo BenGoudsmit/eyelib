@@ -6,7 +6,7 @@ hamartoom: normaal weefsel dat overvloedig groeit
     - blauwige massa's superonasale kwadrant orbita.
 - Posterior:
     - Langzame proptosis
-    - Chocolade cysts (chocolat)
+    - ==Chocolade cysts (chocolat)==
     - Of snelle presentatie met verdrukking door bloeding.
 
 ### Behandeling:

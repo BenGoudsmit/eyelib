@@ -48,6 +48,11 @@ lijkt dan op papiloedeem! typisch in kinderen
 na tienerjaren toenemend zichtbaar -> exposed drusen (C en D)
 OCT drusen en RNFL verdunning
 gezichtsvelduitval 
+
+> [!NOTE] Persoon <50j met [[NAION]]: denk aan papildrusen als oorzaak!
+### AO
+OCT, autoflu, FAG, als dieper gelegen: echo (alleen kalk zichtbaar).
+
 ![[Pasted image 20240703094350.png]]
 
 

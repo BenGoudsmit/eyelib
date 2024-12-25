@@ -15,5 +15,6 @@ Aanvullend onderzoek:
  
 Behandeling:
 - Symptomatisch
+- Geen contactlenzen liefst
 - Soms [[betablokkers]]
 - Soms [[retixumab]] of andere immuuntherapie

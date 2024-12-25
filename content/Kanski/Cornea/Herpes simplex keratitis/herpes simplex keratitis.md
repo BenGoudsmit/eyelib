@@ -27,6 +27,8 @@ Na genezing kan epitheel hobbelig blijven -> dit niet verwarren met actieve infe
 - GEEN STEROÏDEN
 - GEEN PROSTAGLANDINES bij glaucoom: verergeren HSV activiteit en ontsteking.
 
+Zodra onder epitheel: begin met zalf en tabletten, daarbij na 48u steroïden
+
 Profylaxe:
 - Wanneer vaak recidieven: overweeg orale profylaxe: vermindert recidieven met 50%
 - Langdurig valaciclovir: 1d500

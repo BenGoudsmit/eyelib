@@ -1,7 +1,8 @@
 Niet-neoplastisch, niet infectieuze inflammatie die ruimte inneemt.  
 Inflammatie -> infiltraten -> fibrose
-Uitgebreide firbose: =='frozen orbit'==
- 
+Uitgebreide fibrose: =='frozen orbit'==
+pseudotumor
+
 Kliniek is veelal hetzelfde als van bacterieel, komt wel langzamer opzetten en verdwijnt vaak na enkele weken.  
 Een klein deel ontwikkelt uitgebreide fibrose.
  

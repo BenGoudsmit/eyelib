@@ -1,3 +1,6 @@
+steriele ontsteking
+vaak bilateraal
+vaak met ontstoken oogleden
 vermoedelijke hypersensitiviteit tegen [[Staphylococcus aureus]] exotoxines.
 Secundaire lymfocytaire infiltraten.
 

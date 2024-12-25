@@ -1,4 +1,5 @@
 Caverneus hemangioom is vasculaire malformatie.  
+afwijking bloedvaten [[sinus cavernosus]]
 
 > [!NOTE] Meest voorkomende orbita tumor bij volwassenen.
 

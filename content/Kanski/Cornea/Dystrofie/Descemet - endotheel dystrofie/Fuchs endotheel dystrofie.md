@@ -1,4 +1,6 @@
 bilateraal versneld verlies endotheel
+vaker bij vrouwen
+
 Symptomen:
 - toenemend wazig zicht, met name 's ochtends.
 - A: guttata: abnormale excreties door enodtheel

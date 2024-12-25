@@ -22,7 +22,6 @@ Acuut:
 - Na prodromale fase (pijn, hoofdpijn, ziek)
 - Blaasjes ontstaan in ~24u
 - Drogen op na 2-3 weken.
-
 - In 50%: 2 dagen na huidblaasjes -> oog betrokken.
 - Directe invasie -> keratoconjunctivitis (typische epitheeldefecten)
 - 10 dagen na blaasjes: nummulaire keratitis (steroïden geven).
@@ -31,8 +30,10 @@ Acuut:
 - Secundaire ontsteking en vasculitis -> veel schade  
     aan ip alle weefsels van sclera tot opticus. -> verlittekening.
 
+Dendrieten zijn kleiner dan bij HSV, en zonder terminal budding.
+
 Chronisch:
-- [[Neurotrofe keratopathie]] 
+- 50% [[Neurotrofe keratopathie]] 
 - Scleritis
 - Plaquevorming
 - Verlittekening

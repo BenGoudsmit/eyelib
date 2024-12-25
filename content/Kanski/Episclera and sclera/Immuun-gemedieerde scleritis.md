@@ -29,7 +29,7 @@ systemische associaties:
 - vaak in voorgeschiedenis [[herpes zoster keratitis|herpes zoster]] 
 - pijn, roodheid, nodule bij de limbus, interpalpebraal
 	- diepere blauw-rode kleur dan episclerale noduli!
-- 10% ontwikkeld necrotiserende vorm!
+- 10% ontwikkelt necrotiserende vorm!
 
 > [!NOTE] Verschil episcleraal
 > Bij scleritis is anterieure zijde sclera ook verheven en noduli hebben diepere blauw-rode kleur. 
@@ -88,7 +88,7 @@ diagnose is typisch vertraagd -> vaak blindheid
 kan jonge (<40j) gezonde patiënt zijn, of ouder met systemische aandoening
 Symptomen:
 - 35% bilateraal
-- [[Symptomen/Retina/Choroïdale plooien]] 
+- [[Symptomen/Retina/Choroïdale plooien|choroïdale plooien]]  
 - exudatieve netvliesloslating
 - papiloedeem (uitbreiding ontsteking) -> cave permanent visusverlies
 - [[Orbital myositis|myositis]] komt vaak voor: geeft diplopie, pijnlijke oogvolgbewegingen, pijnlijke en rode spierinsertie

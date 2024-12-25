@@ -7,4 +7,11 @@ Symptomen:
 - Soms chemosis
 - Bij ernstiger: tekenen van orbitale verdrukking.
 
+Aanvullend onderzoek:
+- CT maken, massa traanklier
+- Eventueel biopt
+
+Behandeling:
+- meestal niet nodig.
+
 ![[Pasted image 20241113102343.png]]

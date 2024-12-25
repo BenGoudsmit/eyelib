@@ -13,7 +13,7 @@ besmet 5-20% van sexueel actieve mensen in Westerse landen
 - Symptomen:
     - roodheid, afscheiding
     - pre-auriculaire lymadenopathie
-    - grote follikels in de fornix (meestal inferior)
+    - ==grote follikels in de fornix (meestal inferior)==
     - oppervlakkige keratitis punctata
     - perilimbale corneale infiltraten
     - conjunctivale verlittekening

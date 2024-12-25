@@ -1,6 +1,7 @@
 Mesenchymale cellen, die verder kunnen differentiëren.
 - Embryonaal type: 85% van orbita's: goede prognose
 - Alveolaire type: slechtere prognose
+- RB-1 gen mutatie
 
 > [!NOTE] Meest voorkomende sarcoom op kinderleeftijd: 40% in hoofd-hals gebied.
 > 90% <11 jaar, mediane leeftijd 7j.

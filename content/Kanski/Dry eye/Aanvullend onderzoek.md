@@ -4,7 +4,7 @@ Traan productie: Schirmer
 - Fornix inferior droogmaken
 - 5mm gevouwen papier inbrengen 1/3 lateraal
 - Ogen zachtjes dichthouden
-- Na 5 minuten: <10mm zonder anesthesie of <6mm met.
+- Na 5 minuten: <10mm zonder anesthesie (minder knipperen) of <6mm met.
 
 Oppervlakte problemen: aankleuren
 - Fluorescine: kleurt epitheel conjunctiva/cornea.

@@ -44,11 +44,13 @@ Conjunctivale reactie
 
 
 - follikels: licht verheven rond, bloedvaten lopen rondom (niet erdoor!) lymfocyten histologisch
+	- gelig-witte met rood rondom
 - kleine follikels zijn normaal in kinderen
 - met name bij virale conjunctivitis of chlamydia
 ![[Pasted image 20240721101905.png]]
 
 - papillae: hebben vasculaire kern (dit onderscheidt van follikels) en alleen bij palpebrale conjunctiva.
+	- zijn dus verheven en rood, met vat aan de binnenkant
 - bacteriën, allergieën, blepharitis, contactlenzen, floppy eyelid syndrome
 - lymfeoedeem: pre-auriculair! meestal viraal of ernstiger bacterieel.
 

@@ -1,4 +1,5 @@
 Trombose in [[sinus cavernosus]] -> met behandeling alsnog 20% mortaliteit.
+ 100% onbehandeld
  
 Meestal ten gevolg van: sinusitis, orbitale cellulitis, otitis
 ### kliniek

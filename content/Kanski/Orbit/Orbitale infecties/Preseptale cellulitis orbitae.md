@@ -27,7 +27,7 @@ Geen CT of MRI nodig tenzij:
 - Geen respons op therapie
 
 ### Behandeling:
-- Oraal AB (zie Zenya)
+- Oraal AB [[augmentin]] (post septaal: IV)
 - Tetanus status.
  
 Orbita abces:

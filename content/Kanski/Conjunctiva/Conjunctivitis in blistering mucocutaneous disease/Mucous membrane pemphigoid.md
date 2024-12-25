@@ -11,7 +11,10 @@ Symptomen:
 - Oogleden: blefaritis, cicatrisatie oogwimpers
     - ==Ankyloblefaron==: adhesie oogleden
 - Huid en mucosa doen vaak mee met blaarvorming.
- 
+
+Lokaal
+Dapzone: 70% reageert in mild-moderate disease
+
 Systemisch behandelen:
 - Sulfalazine
 - Azathioprine of methotrexaat

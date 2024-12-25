@@ -3,7 +3,6 @@ Eencellige die parasiteert.
 In aarde, water, bovenste luchtwegen.
 [[Acanthamoeba cyste]] vorm: zeer resistent tegen omgeving
 [[Acanthamoeba trofozoiet]] vorm: weefselinvasie en destructie
-
 ### kliniek
 - Ernstige pijn (**disproportioneel**), wazig zicht.
 - Initieel epitheel aangedaan: irregulair en grijs epitheel
