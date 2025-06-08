@@ -21,7 +21,7 @@ Symptomen:
 - Orbita:
 	- Bilaterale orbitale ontsteking [[Non-infective inflammatory disease|Non-infective inflammatory disease]], gepaard met sinuspathologie
 - Cornea:
-	- [[Perifere corneale verdunning - ulceraties - PUK]] oftewel PUK
+	- [[Perifere ulceratieve keratitis]] oftewel PUK
 
 cANCA bepalen
 

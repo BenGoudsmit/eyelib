@@ -26,11 +26,11 @@ aliases:
 ### Introductie
 normale grootte is 7.5mm
 - kleiner: groot astigmatisme
-- groter: [[perifere anterior synechiae - PAS]] en verhoogde [[Intra-oculaire druk - IOP]]
+- groter: [[perifere anterior synechiae]] en verhoogde [[Intra-oculaire druk - IOP]]
 
 #### Postoperatief:
 - topicaal steroïden, indien ernstig sterkere immuunsuppressiva
-- [[cycloplegia]] meestal 1-2 weken 
+- [[cycloplegie]] meestal 1-2 weken 
 - IOP monitoren
 - evt [[aciclovir]] als eerder herpes
 - hechtingen verwijderen: 12-18 maanden als alles goed gaat
@@ -48,9 +48,9 @@ kan dagen tot jaren na CTx
 
 Symptomen:
 - vroeg: vaatinjectie met anterior uveïtis
-- <span style="background:#fff88f">Krachmer</span> spots: subepitheliale infiltraten, lijkt op [[Adenovirus]] 
+- **Krachmer** spots: subepitheliale infiltraten, lijkt op [[Adenovirus]] 
 - stromaal: diepe haze
-- endotheel: <span style="background:#fff88f">Khodadoust</span> lijn
+- endotheel: **Khodadoust** lijn
 
 ![[Pasted image 20240521100852.png]]
 

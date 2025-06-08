@@ -7,7 +7,7 @@ Dit staat in Kanski: volgens #Missotten achterhaald! Je ziet op OCT-A de flow va
 
 #### kliniek
 Symptomen:
-- lijkt op [[Choroïdale neovascularisatie|CNV]] qua presentatie, maar meer [[Diabetische retinopathie#exudaten|exudaten]], bloedingen en [[Pigment epitheel loslating]] (vanwege vnl intraretinale ligging?)
+lijkt op [[Choroïdale neovascularisatie|CNV]] qua presentatie, maar meer [[Diabetische retinopathie#exudaten|exudaten]], bloedingen en [[Pigment epitheel loslating]] (vanwege vnl intraretinale ligging?)
 
 Stadia:
 1: intraretinaal (drusen, bloedingen) 

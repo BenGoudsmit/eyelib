@@ -9,7 +9,7 @@ QoL behouden tegen acceptabele kosten
 
 ### classificatie
 aangeboren of verworven
-open of gesloten kamer 
+open of gesloten kamerhoek
 primair of secundair (andere aandoening leidt tot glaucoom)
 
 ### epidemiologie

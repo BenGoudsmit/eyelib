@@ -28,7 +28,7 @@ We weten nog niet goed hoe schade ontstaat door o.a. IOP, mogelijk:
 ### Risicofactoren:
 - IOP
 - Leeftijd
-- Ras
+- Ras (Eurpees + Afrikaans: denk aan Rogier)
 - familieanamnese
 - [[diabetes mellitus type 2]]
 - [[myopie]]
@@ -50,7 +50,7 @@ OPTN: optineurine
 niet iedereen, dat is niet kosten-effectief
 daarom hoog risico:
 - hogere leeftijd
-- >40j en positieve familieanamnese
+- boven 40j en positieve familieanamnese
 - Afrikaanse etniciteit of achtergrond
 
 je moet IOP, gezichtsveld, en OCT hebben
@@ -71,7 +71,7 @@ anders mis je veel POAG (met normale druk)
 - tonometrie
 - gonioscopie
 
-### Opticus - papil
+### Evaluatie van opticus - papil
 - neuroretinale rim: ISNT regel (dik -> dun)
 	- sensitief (81%), maar niet specifiek (32%): ogen zonder glaucoom trekken zich niks aan van deze regel.
 - verticale cup/disc ratio: beste op OCT
@@ -115,7 +115,7 @@ anders mis je veel POAG (met normale druk)
 ![[Pasted image 20240525114703.png]]
 
 #### papil: niet specifieke schade:
-- A en B: bloedingen
+- A en B: splinterbloedingen
 - C: [[baring of circumlinear vessels]]: vroeg teken van verdunning NRR: er is ruimte tussen de NRR en een bloedvat -> dat hoort niet!
 - D: [[bayoneting]] vat maakt dubbele hoek
 - E: collateraalvorming tussen venen (zeldzaam)
@@ -182,10 +182,12 @@ OCT
 ![[Pasted image 20240525151903.png]]
 
 ### Behandeling
+- na start druppels: 4-8 revisie
 - laat traanbuis 3 minuten afdrukken na druppelen.
 - meerdere druppels: 5 minuten tussen druppels laten (washout voorkomen)
 - denk altijd aan therapietrouw bij aanhoudend hoge IOP
 #### Behandeldoelen:
 - spreek target pressure af: bijv <18mmHg
+- elke 1 mmHg IOP daling: 10% minder progressie kans
 - wanneer niet conservatief/medicamenteus -> chirurgisch
 - of wanneer goede IOP en nog steeds schade: ook sneller chirurgie

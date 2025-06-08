@@ -26,12 +26,13 @@ Nadelen: cave flap problemen
 ![[Pasted image 20240521203248.png]]
 
 ### Surface ablation procedures
-photorefractive keratectomy: ook excimer om cornea te reshapen
-<span style="background:#fff88f">LASEK</span> (laser assisted epithelial keratomileusis) is een variatie van PRK
-- epitheel wordt losgeweekt met alcohol, daarna terug geplaatst.
+PRK: photorefractive keratectomy: ook excimer om cornea te reshapen
+LASEK (laser assisted epithelial keratomileusis) is een variatie van PRK
+epitheel wordt losgeweekt met alcohol, daarna terug geplaatst.
 myopie -> tot 6D
 astigmatisme -> 3D
 lage hypermetropie
+
 Nadelen tov LASIK:
 - minder correctie mogelijk dan bij LASIK
 - langzamere epitheliale genezing

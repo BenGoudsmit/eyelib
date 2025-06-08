@@ -3,7 +3,7 @@ wisselende presentatie en ernst, afhankelijk van genetische grondslag
 presentatie is vroege kinderleeftijd met centraal scotoom
 slechte prognose
 
-#### kliniek
+## Kliniek
 geleidelijke achteruitgang centraal en kleuren zicht
 in fundo:
 - macula kan er vroeg normaal uit zien, daarna niet-specifieke pigmentalteraties of atrofie

@@ -12,6 +12,8 @@ trabeculair: 'de zeef verstopt' (B)
 - macrofagen en lenseiwitten (phacolytisch glaucoom)
 - eiwitten (mogelijk bij uveïtis)
 - [[pseudoexfoliation syndrome - PEX]]
+- [[ghost cell glaucoom]]
+- [[Lens gerelateerd glaucoom]]
 
 post-trabeculair: trabekelsysteem zelf is normaal, maar veneuze druk hoger (episcleraal)
 - [[Carotid-caverneus fistel]]
@@ -28,7 +30,7 @@ met pupillaire blokkade (C)
 - iris-capsule adhesie na phaco: [[capsular block syndrome]]
 
 zonder pupillaire blokkade (D)
-- secundaire oorzaken [[perifere anterior synechiae - PAS|PAS]] ([[neovasculair glaucoom]], chronische uveïtis anterior)
+- secundaire oorzaken [[perifere anterior synechiae|PAS]] ([[neovasculair glaucoom]], chronische uveïtis anterior)
 - cilio-choroïdale effusie
 - capsular block syndrome
 - tumor t.p.v. iris

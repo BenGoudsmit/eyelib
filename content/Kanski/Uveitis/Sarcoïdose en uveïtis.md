@@ -6,7 +6,7 @@ oog betrokken 25-70%
 meestal granulomateuze uveïtis anterior
 7 key points:
 - [[Keratitische precipitaten]] als [[Mutton fat]] 
-- trabekelsysteem nodules, kan met [[perifere anterior synechiae - PAS]]
+- trabekelsysteem nodules, kan met [[perifere anterior synechiae]]
 - glasvocht ontstekingscomplexen: snowballs of strengen
 ![[Pasted image 20240603093802.png]]
 

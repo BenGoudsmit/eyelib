@@ -1,6 +1,6 @@
-2e meest voorkomende maculaire dystrofie (na [[Stargardt - fundus flavimaculatus]])
-transmembraan ion kanaal is aangedaan (bestrofine eiwit)
-tot middelbare leeftijd redelijke visus, daarna achteruitgang met fibrose en (geografische) atrofie
+2e meest voorkomende maculaire dystrofie (na [[Stargardt - fundus flavimaculatus]]).
+transmembraan ion kanaal is aangedaan (bestrofine eiwit).
+tot middelbare leeftijd redelijke visus, daarna achteruitgang met fibrose en (geografische) atrofie.
 
 #### kliniek
 in fundo:

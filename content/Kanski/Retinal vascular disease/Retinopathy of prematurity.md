@@ -1,26 +1,37 @@
-exact mechanisme onbekend
-waarschijnlijke rol voor vroege blootstelling veel zuurstof
-hierdoor vertraagde vaatgroei (hypoxie bevordert vaatgroei: te veel remt af?)
+---
+aliases:
+  - ROP
+  - retinopathy of prematurity
+  - prematuren retinopathie
+  - retinopathie bij prematuren
+---
+### Pathofysiologie:
+- retinale vaten beginnen te ontwikkelen in 4e maand zwangerschap
+	- vanuit papil naar perifeer
+	- nasaal na 8 maanden zwangerschap aangelegd
+	- temporaal 1 maand na geboorte aangelegd (+10 maanden)
+- vroeggeboorte: relatieve hyperoxie -> VEGF onderdrukt
+- na hyperoxie dus hypoxie: te weinig retina aangelegd
+- hierdoor VEGF productie: neo's
+	- bloedingen
+	- littekenvorming
+	- tractie retina
+	- ablatio
 elk kind vóór 32 weken of <1500g screenen
 ![[Pasted image 20240606151938.png]]
 
-#### stadiëring
+#### Classificatie
 beschrijft abnormale vaten versus normale vaten
-
-stadium 1: 
-- dunne grijs-witte scheidingslijn
-
-stadium 2:
-- vaten veschijnen bij deze scheidingslijn
-
-stadium 3:
-- vaatgroei en fibrose vanuit retina naar glasvocht
-
-stadium 4:
-- gedeeltelijke ablatio met of zonder fovea aan
-
-stadium 5:
-- gehele ablatio
+- stadium 1: 
+	- dunne grijs-witte scheidingslijn
+- stadium 2:
+	- vaten veschijnen bij deze scheidingslijn
+- stadium 3:
+	- vaatgroei en fibrose vanuit retina naar glasvocht
+- stadium 4:
+	- gedeeltelijke ablatio met of zonder fovea aan
+- stadium 5:
+	- gehele ablatio
 
 'Plus' ziekte: met tortueuze vaten
 

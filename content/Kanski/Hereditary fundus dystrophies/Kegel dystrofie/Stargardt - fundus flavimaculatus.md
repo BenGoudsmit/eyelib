@@ -1,5 +1,5 @@
 juvenile maculaire dystrofie
-meest voorkomende maculaire dystrofie
+meest voorkomende erfelijke maculaire dystrofie
 ABCA4 gen
 denk hieraan bij centraal visusverlies <50j
 [[lipofusceïne]] hoopt op in RPE

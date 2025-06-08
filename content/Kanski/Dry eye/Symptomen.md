@@ -1,3 +1,4 @@
+zie uitgebreider: [[Kanski/Eyelids/Blepharitis|Blepharitis]]
 Posterieure blefaritis met Meiboom klier dysfunctie  
 Rode conjunctiva  
 Aankleuring  
@@ -13,6 +14,6 @@ Traanfilm:
 
 Cornea:
 - Punctata die aankleuren
-- Mucune-lipide slierten of plaques (erger)
+- Mucine-lipide slierten of plaques (erger)
 
 ![[Pasted image 20240720162619.png]]

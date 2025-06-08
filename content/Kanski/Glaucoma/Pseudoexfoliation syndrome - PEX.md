@@ -1,7 +1,7 @@
 #### Pathogenese
-systemische ziekte, oculaire uiting
-- ook hoge tonen verlies en cardiovasculaire problemen
-	- pseudoexfoliatief materiaal zit overal...
+systemische ziekte, oculaire uiting (pseudoexfoliatief materiaal zit overal)
+ook hoge tonen verlies en cardiovasculaire problemen
+
 zelden <50j, daarna steeds vaker, 5% 75-85j
 vaker in vrouwen, Scandinavië
 niet te voorspellen wie glaucoom ontwikkeld

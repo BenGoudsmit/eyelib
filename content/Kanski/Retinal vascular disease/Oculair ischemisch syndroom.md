@@ -1,5 +1,8 @@
 chronische oculaire hypoperfusie
-vaak door carotis stenose
+vaak door carotis stenose: moet 90% zijn
+40% 5-jaars mortaliteit (cardiaal)
+8-% unilateraal
+2:1 man:vrouw
 risico's cerebraal en verdere CVRM
 
 ### kliniek

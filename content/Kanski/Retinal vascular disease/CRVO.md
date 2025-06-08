@@ -1,6 +1,7 @@
 # Niet-ischemisch CRVO
 veneuze stase, maar geen (aanwijsbare) ischemie van de retina
 vaker voorkomend dan ischemisch
+betere prognose
 1/3e -> iCRVO
 
 ### kliniek
@@ -15,7 +16,7 @@ FAG: vertraagde arterioveneuze transit (stase) maar goede retinale capillaire vu
 
 ![[Pasted image 20240606085921.png]]
 # Ischemisch CRVO
-retinale hypoperfusie, afsluitende capillaire, retinale ischemie
+meer dan 10 disk diameter retinale hypoperfusie, afsluitende capillaire, retinale ischemie
 macula oedeem, [[neovasculair glaucoom]]! 
 pijnloos, mono-oculair
 als pijn, roodheid, fotofobie: cave glaucoom!

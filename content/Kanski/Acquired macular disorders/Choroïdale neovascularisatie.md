@@ -1,5 +1,10 @@
+---
+aliases:
+  - CNV
+---
+
 bloedvaten vanuit chorocapillairen, door Bruch membraan heen, in de 
-type 1: tussen [[Bruch membrane]] en [[Retinal pigment epithelium - RPE|RPE]] 
+type 1: tussen [[Bruch membrane]] en [[Retinal pigment epithelium|RPE]] 
 type 2: subretinale ruimte
 (type 3: [[Retinal angiomatous proliferation|RAP]]?)
 
@@ -43,7 +48,7 @@ bloedingen, fibrose
 classificatie obv locatie (zie ook intro)
 - CNV type 1: boven Bruch, onder RPE -> vaak [[Pigment epitheel loslating]]
 	- [[double layer sign]] 
-- CNV type 2: boven RPE, onder neurosensorische retina -> vaak subretinaal vocht, intratretinaal vocht, intraretinale bloedingen
+- CNV type 2: boven [[Retinal pigment epithelium]], onder neurosensorische retina -> vaak subretinaal vocht, intratretinaal vocht, intraretinale bloedingen
 
 ### Behandeling anti-VEGF
 zie [[anti-VEGF injecties]]

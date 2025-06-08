@@ -14,7 +14,7 @@ geen thermische schade, dus je kunt herhalen
 betere uitstroom, mechanisme onbegrepen
 10-40% verlaging IOP na 6 maanden
 achteraf wat ongemak
-soms IOP juist omhoog, soms [[perifere anterior synechiae - PAS]]
+soms IOP juist omhoog, soms [[perifere anterior synechiae]]
 bij uitgebreid laseren: cave cornea endotheel en [[Herpes simplex virus]] reactivatie
 
 ### Argon laser trabeculoplastiek - ALT

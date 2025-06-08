@@ -1,12 +1,12 @@
 Introductie:
 
-- Adenovirus in 90% -> sporadisch, vaak endemisch -> <span style="background:#fff88f">zeer besmettelijk</span>.
+- Adenovirus in 90% -> sporadisch, vaak endemisch -> zeer besmettelijk
 - dsDNA overleeft weken op droge oppervlakken.
 - Transmissie contact met respiratoire of oculaire secreties.
 
 ![[Pasted image 20241126172757.png]]
 
-Presentatie:
+### Presentatie:
 - Varieert van mild tot ernstig
 - Meestal: acute folliculaire conjunctivitis
     - Waterig, rood, irritatie, jeuk, lichte fotofobie
@@ -24,7 +24,7 @@ Presentatie:
 
 ![[Pasted image 20241126173101.png]]  
 
-Symptomen:
+### Symptomen:
 - Ooglid oedeem
 - Lymfadenopathie (meestal pre-auriculair)
 - Conjunctivale hyperaemie en follikels
@@ -36,10 +36,10 @@ Symptomen:
 - Anterieure uveïtis: soms
 - Molluscum
  
-Aanvullend onderzoek:
+### Aanvullend onderzoek:
 - Virus diagnostiek: PCR, kweek om bacteriën uit te sluiten.
  
-Behandeling adenovirus:
+### Behandeling adenovirus:
 - Spontane genezing meestal in 2-3 weken.
 - Verspreiding voorkomen: zeer goede handhygiëne, niet aan de ogen zitten.
     - Voor de onderzoeker: ontsmet alles met natrium hypochloriet of pivodon-iopidine

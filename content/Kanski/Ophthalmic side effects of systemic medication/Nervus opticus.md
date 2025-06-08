@@ -20,6 +20,7 @@ kan zelden toxische neuropathie geven
 
 # Amiodaron
 1-2% langdurige amiodaron gebruikers
+denk: vertraagt zenuwgeleiding in het hart: zelfde voor opticus!
 wss demyelinisatie -> neuritis optica
 niet dosis afhankelijk
 klinisch lastig onderscheid van [[NAION]]

@@ -21,5 +21,5 @@ grotere laceraties hebben vaak complexe aangezicht chirurgie nodig
 
 cannaliculus laceratie: binnen 24u herstel proberen, stent in traanbuis, blijft daar 3-6 maanden
 
-> [!NOTE] Denk altijd aan tetatnus profylaxe
+> [!NOTE] Denk altijd aan tetanus profylaxe
 

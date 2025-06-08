@@ -7,7 +7,7 @@ splijting retina bij [[Outer plexiform layer]]
 - [[Rhegmatogene ablatio]]
 - [[Exudatieve ablatio]]
 - [[Juvenile X-Linked Retinoschisis]]
-- [[Centraal sereuze chorioretinopathie - CSCR]]
+- [[Centraal sereuze chorioretinopathie]]
 
 ![[Pasted image 20241017100841.png]]
 

@@ -8,7 +8,7 @@ drie verschillende presentaties (afhankelijk van iris)
 - [[Chandler syndroom]] is meest voorkomend, beloop beste
 - Progressief essentieel iris atrofie:
 	- pupil malpositie
-	- irisatrofie, vervormingen, veel [[perifere anterior synechiae - PAS]] 
+	- irisatrofie, vervormingen, veel [[perifere anterior synechiae]] 
 - [[Cogan-Reese syndroom - iris naevus syndroom]] 
 
 ![[Pasted image 20240529180218.png]]

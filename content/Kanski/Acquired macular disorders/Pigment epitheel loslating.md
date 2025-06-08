@@ -14,7 +14,7 @@ wazige visus, [[metamorfopsie]], soms [[hypermetropisatie]]
 in fundo: 
 - bolronde, koepelvormige, scherp begrensde oranje heuvel
 - je ziet een lichte rand: oedeem
-	- 90% onderliggend CNV -> FAG maken
+	- <font color="#ff0000">90% onderliggend [[Choroïdale neovascularisatie|CNV]] -> FAG maken</font>
 - onderliggend kan een CNV liggen: dan ook deposities vanuit vaten: bloed, vettige exudaten
 - als geen [[drusen]]: wees bedacht op PCV
 

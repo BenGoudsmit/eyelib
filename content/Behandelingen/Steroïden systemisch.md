@@ -4,4 +4,4 @@
 
 Na 3 weken IOP controleren. #Lemij 
 
-cave [[Centraal sereuze chorioretinopathie - CSCR]]
+cave [[Centraal sereuze chorioretinopathie]]

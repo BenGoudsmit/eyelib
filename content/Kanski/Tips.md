@@ -1,3 +1,50 @@
+### checklist
+- [ ] Cataract
+- [ ] Diabetes
+- [ ] Sicca: hele hoofdstuk dry eye + stappenplan treatment
+- [ ] Conjunctivitis (oorzaken neonatale + wanneer follikels wanneer papillen + trachoma (litteken bij ooglid, waar denk je aan?) + adeno
+- [ ] Pari: weg van de traan
+- [ ] Graves: cas classificatie + volgorde van spieren die uitvallen (eerst inferior?)
+- [ ] Cornea: laagjes + fuchs (herpes check of je geen ARN hebt)thygeson, recidiverende cornea erosie
+- [ ] Sclera: scleritis en episcleritis
+- [ ] Lens: cataract (christmas tree bij welke? Myotone dystrophie) + complicaties bij cataract (aqeoue misdirection + subchoroidale bloeding (verlies roodreflex) + wat is belangrijk als je iemand opzet voor ok  (blefaritis, ondiepe vok, gutata? Pupil wijd genoeg? Pex? Pseudo exfoliatief? Dan ook zwakkere zonulae, heb je ook tamsulosine gebruik)
+- [ ] Glaucoom
+- [ ] Bijwerkingen medicatie glaucoom
+- [ ] Kamerhoek
+- [ ] Glaucoom: kamerhoek anatomie, POAG, “isn’t” -> inferior is het dikst, dan superior etc, temporaal is altijd dunner,  papilbloeding is een behandelindicatie, gradering gesloten kamerhoek) pseudoexfoliation, pigmentdyspersie, behandeling + bijwerkingen
+- [ ] Uveitis: anterior, hla b27 (bij hiv kun je cmv krijgen?) white dot bij jonge vrouw met witte plek, maak fag en vervolg, niet teveel details leren
+- [ ] Diabetes: leer schema uit je hoofd, veneuze occlusies (hypertensie en verhoogde IOP) hypertensieve retinopathie (gradering) (coat=leukocorie) roth spots
+- [ ] Hoofdstuk 14: amd, areds medicatie vanaf grote confluerende druden (intermediate amd) rap (retinale antiomateuze prolifereatie) en polypoidale choroidale neovascularisatie), serosa
+- [ ] AMD
+- [ ] Hereditare dystrofieen (waarschijnlijk niks van vragen), eventueel retinitis pigmentosum en best en stargardt
+- [ ] Strabismus (n3 parese = out en down, bij trochlearis een bielchowsli etc) duane en brown leren
+- [ ] Neur: aion, evt myasthenie
+- [ ] Tumoren: bij josje niks gevraagd. Evt salmon patch bij lymfoom
+- [ ] Medicatie: steroïden cararact etc, amiodarone, mtx
+- [ ] Trauma: obm stoornis bij fractuur, stomp trauma = ora scheuren
+### Yasmine
+- glaucoom
+- Bijwerkingen medicatie (verschillende glaucoom medicatie)
+- Cataract
+- Diabetes
+- Sicca: hele hoofdstuk dry eye + stappenplan treatment
+- Kamerhoek
+- Conjunctivitis (oorzaken neonatale + wanneer follikels wanneer papillen + trachoma (litteken bij ooglid, waar denk je aan?) + adeno
+- Pari: weg van de traan
+- Graves: cas classificatie + volgorde van spieren die uitvallen (eerst inferior?)
+- Cornea: laagjes + fuchs (herpes check of je geen ARN hebt)thygeson, recidiverende cornea erosie
+- Sclera: scleritis en episcleritis
+- Lens: cataract (christmas tree bij welke? Myotone dystrophie) + complicaties bij cataract (aqeoue misdirection + subchoroidale bloeding (verlies roodreflex) + wat is belangrijk als je iemand opzet voor ok  (blefaritis, ondiepe vok, gutata? Pupil wijd genoeg? Pex? Pseudo exfoliatief? Dan ook zwakkere zonulae, heb je ook tamsulosine gebruik)
+- Glaucoom: kamerhoek anatomie, POAG, “isn’t” -> inferior is het dikst, dan superior etc, temporaal is altijd dunner,  papilbloeding is een behandelindicatie, gradering gesloten kamerhoek) pseudoexfoliation, pigmentdyspersie, behandeling + bijwerkingen
+- Uveitis: anterior, hla b27 (bij hiv kun je cmv krijgen?) white dot bij jonge vrouw met witte plek, maak fag en vervolg, niet teveel details leren
+- Diabetes: leer schema uit je hoofd, veneuze occlusies (hypertensie en verhoogde IOP) hypertensieve retinopathie (gradering) (coat=leukocorie) roth spots
+- Hoofdstuk 14: amd, areds medicatie vanaf grote confluerende druden (intermediate amd) rap (retinale antiomateuze prolifereatie) en polypoidale choroidale neovascularisatie), serosa
+- Hereditare dystrofieen (waarschijnlijk niks van vragen), eventueel retinitis pigmentosum en best en stargardt
+- Strabismus (n3 parese = out en down, bij trochlearis een bielchowsli etc) duane en brown leren
+- Neur: aion, evt myasthenie
+- Tumoren: bij josje niks gevraagd. Evt salmon patch bij lymfoom
+- Medicatie: steroïden cararact etc, amiodarone, mtx
+- Trauma: obm stoornis bij fractuur, stomp trauma = ora scheuren
 ### Nele 
 Anatomie traanwegen, blefaritis
 

@@ -1,6 +1,8 @@
 #symptoom #trauma
-
-bloed in VOK na trauma
+bloed in VOK
+meestal bloed uit iriswortel of corpus ciliare
+meestal na trauma
+cave aanhoudend bloeden -> hoge IOP
 
 > [!danger] cave [[Traumatisch glaucoom]]
 

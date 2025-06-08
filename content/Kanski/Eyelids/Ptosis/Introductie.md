@@ -1,5 +1,5 @@
 ptosis is hangend bovenooglid: congenitaal of verworven
-- neurogeen: [[Nervus oculomotoris]] parese, [[Horner syndroom]] 
+- neurogeen: [[Nervus oculomotorius uitval]] parese, [[Horner syndroom]] 
 - (neur)myogeen: [[Musculus levator palpebrae superior]] aangedaan, of neuromusculaire junctie
 - aponeurotisch: aanhechting [[Musculus levator palpebrae superior|m levator palpebrae]] aangedaan
 - mechanisch: verlittekening, zwaartekracht bij massawerking

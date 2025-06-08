@@ -1,9 +1,9 @@
-idiopathische retinale teleangiëctasie (denk: ongewenste vaten op jonge leeftijd)
+idiopathische [[retinale teleangiëctasie]] (denk: ongewenste vaten op jonge leeftijd)
 retinale exudaten, loslatingen
 75% man, 95% unilateraal, meestal <10j 
 
 #### kliniek
-[[leukocorie]], unilateraal visusvermindering, strabisme
+[[leukocorie]] door exudaten, unilateraal visusvermindering, strabisme
 in fundo:
 - teleangiëctasieën
 - dilataties/aneurysmata

@@ -1,6 +1,12 @@
+zuur of basisch: pH meten
+spoelen tot pH 7
 alkalisch letsel meer voorkomend: vaker in huishoudproducten
 zuur is minder schadelijk: coaguleert oppervlakte-eiwitten
 ammoniak en natriumhydroxide geven ernstige letsels
+
+> [!NOTE] Noteer
+> Stase
+> Hoeveel klokuren
 
 ### kliniek
 

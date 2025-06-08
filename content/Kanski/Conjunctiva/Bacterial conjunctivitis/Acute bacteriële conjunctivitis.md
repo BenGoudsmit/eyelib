@@ -26,7 +26,7 @@ Meestal:
 - Systemische behandeling:
     - gonococ, meningococ -> [[ceftriaxon]] -> 30% ontwikkelt systemisch zonder AB!
     - H. Influenza -> augmentin, vooral in kinderen (cave 25% otitis en andere systemische infecties)
-    - preseptale of orbitale cellulitis
+    - [[Preseptale cellulitis orbitae]] en [[Bacteriele orbitale cellulitis]]
 - Overige behandelingen:
     - steroïden: bij verlittekening na (pseudo)membraneuze conjunctivitis
     - irrigatie: bij veel afscheiding

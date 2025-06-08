@@ -3,10 +3,14 @@ ook wel blow-out
 door aard van het trauma -> oog absorbeert niet de kracht maar geeft door
 de bodem is het kwetsbaarst, soms mediale wand ook aangedaan
 
-### kliniek
+
+> [!NOTE] Entrapment en compartiment syndroom
+> ducties, oogzenuw
+
+### Kliniek
 visus goed meten op baseline
 peri-oculaire zwelling, bloeding, of lucht (subcutaan emfyseem)
-anesthesie van structuren onder oog 
+anesthesie van [[nervus infraorbitale]]: OOL, wang, etc (structuren onder oog)
 diplopie door:
 - zwelling en bloed kunnen spieren beperken -> wordt vanzelf minder
 - spieren kunnen vastzitten in fractuur -> wordt niet minder
@@ -24,7 +28,9 @@ daarna: behandeling gericht op
 
 kleine fracturen: hoeven niet behandeld
 helft orbitabodem maar weinig hernia, herstellende diplopie, geen enophthalmus -> afblijven
-als diplopie, onacceptabele enophthalmus (>2mm) -> binnen 2 weken opereren
+
+> [!NOTE] Operatie-indicatie
+> als diplopie, onacceptabele enophthalmus (>2mm) -> binnen 2 weken opereren
 
 white-eyed fracture: in jonge personen is bot soepel en dus kan het ook in een soort val terecht komen -> door elasticiteit van weefsel meer afknijpen, verraderlijk want klinisch of op beeldvorming weinig te zien.
 
@@ -45,7 +51,7 @@ doordat mediale rectus vastzit kunnen zowel adductie als abductie aangedaan zijn
 # Laterale wand fractuur
 stevigste dus zien oogartsen weinig -> als aan de hand dan meestal in multi-trauma setting
 
-# Orbita bloeding retrobulbair
+# Retrobulbaire orbitabloeding
 met name van belang door compressie -> opticus schade -> blindheid
 complicatie van oculaire verdoving
 

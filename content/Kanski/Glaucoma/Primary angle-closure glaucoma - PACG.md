@@ -19,9 +19,10 @@ beoordeel:
 
 <span style="background:#fff88f">Schaffer</span> systeem
 - graad 4 (35-35): wijdste hoek
-- graad 3 (25-35): open hoek en scleral spur te zien
-- graad 2 (20): trabekelsysteem maar niet scleral spur te zien
-- graad 1 (10): alleen [[Schwalbe lijn]] en eventueel bovenste deel trabeculum
+- graad 3 (25-35): open hoek. scleral spur te zien
+- graad 2 (20): mogelijke afsluiting. trabekelsysteem maar niet scleral spur te zien
+- graad 1 (10): waarschijnlijk. alleen [[Schwalbe lijn]] en eventueel bovenste deel trabeculum
+- graad 0: dicht
 ![[Pasted image 20240526101543.png]]
 
 ![[Pasted image 20240526110654.png]]
@@ -38,14 +39,14 @@ beoordeel:
 - eclipse sign: iris-lens diafragma werpt schaduw (staat naar voren)
 - ITC in 3 kwadranten
 - normale IOP
-- geen [[perifere anterior synechiae - PAS]] 
+- geen [[perifere anterior synechiae]] 
 - PACS lage kans op angle closure (8/1000 oogjaren)
 
 ![[Pasted image 20240526112218.png]]
 
 ##### Primary angle closure - PAC
 - 3 kwadranten met occlusie trabekelsysteem (ITC)
-- daarbij [[perifere anterior synechiae - PAS]] en/of verhoogde IOP
+- daarbij [[perifere anterior synechiae]] en/of verhoogde IOP
 - normale papil, normale HFA
 
 ##### Primary angle closure glaucoma - PACG
@@ -60,7 +61,7 @@ onderverdelen o.b.v. anatomie anterior -> posterior
 - iris en lens prolaps
 Behandeling:
 - perifere iridotomie
-	- als geen effect: cave [[perifere anterior synechiae - PAS]] 
+	- als geen effect: cave [[perifere anterior synechiae]] 
 	- of ander mechanisme: zoals schade aan trabekelsysteem
 ![[Pasted image 20240526114739.png]]
 ###### Niet-pupillaire blokkade

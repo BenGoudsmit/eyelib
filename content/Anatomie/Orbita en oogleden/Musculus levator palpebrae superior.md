@@ -5,7 +5,7 @@ https://www.kenhub.com/en/library/anatomy/levator-palpebrae-superioris-muscle
 | Origin       | Lesser wing of sphenoid bone                        |
 | Insertion    | Superior tarsal plate, skin of upper eyelid         |
 | Action       | Elevates superior eyelid                            |
-| Innervation  | [[nervus oculomotorius\|Oculomotor nerve (CN III)]] |
+| Innervation  | [[Anatomie/Orbita en oogleden/Nervus oculomotorius\|Oculomotor nerve (CN III)]] |
 | Blood supply | [[arteria ophthalmica]],[[arteria supraorbitalis]]  |
 Functie:
 - Elevatie ooglid

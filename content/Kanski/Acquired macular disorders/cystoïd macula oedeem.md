@@ -1,4 +1,4 @@
-vocht vormt tussen [[Outer plexiform layer]] en [[inner nuclear layer]] 
+vocht vormt tussen [[inner nuclear layer]] en [[Outer plexiform layer]]
 hierdoor ontstaan kleine cystoïde holtes
 deze kunnen conflueren tot [[Full-thickness macular hole|lamellair macula gat]] 
 is een vorm van oedeem -> veel potentiële oorzaken:

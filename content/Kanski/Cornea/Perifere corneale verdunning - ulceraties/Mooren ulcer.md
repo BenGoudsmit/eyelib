@@ -1,5 +1,5 @@
 zeldzame auto-immuun ziekte
-vorm van [[Perifere corneale verdunning - ulceraties - PUK]] (PUK)
+vorm van [[Perifere ulceratieve keratitis]] (PUK)
 perifere stromale ulceratie -> later centrale uitbreiding
 twee vormen:
 1. in ouderen, meestal 1 oog, reageert goed op behandeling,.

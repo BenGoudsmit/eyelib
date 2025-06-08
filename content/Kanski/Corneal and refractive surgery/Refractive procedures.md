@@ -3,18 +3,20 @@ cornea of lens refractie wijzigen
 
 ### Myopie correctie
 oppervlakte ablatie: lage refractie afwijkingen 
-<span style="background:#fff88f">LASIK</span>: laser in situ keratomileusis
+LASIK: laser in situ keratomileusis
 - afhankelijk van cornea dikte: middel tot hoge myopie behandelen
+
 Klauwlens (iris clip, lobster claw): vastmaken aan iris
 - cave dislocatie of luxatie
 - endotheelverlies, cataract, pupil block glaucoom, netvlies loslating
-<span style="background:#fff88f">ICL</span>: implantable contact lens, phakic posterior chamber implant
-- achter de iris en voor de lens in de ciliaire sulcus, -3 tot -20.5 [[Dioptrie - D]]
+
+ICL: implantable contact lens, phakic posterior chamber implant
+- achter de iris en voor de lens in de ciliaire sulcus, -3 tot -20.5 [[Dioptrie]]
 - cave uveïtis, pupil block, endotheel verlies, cataract, netvliesloslating
 
 ### Hypermetropie correctie
 - oppervlakte ablatie
-- LASIK: tot 4 [[Dioptrie - D]]
+- LASIK: tot 4 [[Dioptrie]]
 - Conductieve keratoplastiek: door branden stroma laten krimpen -> curvatuur versterken
 - laser thermale keratoplastiek: Holmium laser: brandt mid perifeer in ringvorm, hierdoor ook krimp
 ![[Pasted image 20240521123453.png]]

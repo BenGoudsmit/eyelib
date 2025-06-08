@@ -14,7 +14,7 @@ acuut cornea oedeem: endotheelschade, vaak met Descemetplooien, herstelt
 Descemet scheur: verticale lijnen
 ![[Pasted image 20240714171351.png]]
 
-#### hyfeem: 
+### [[hyfeem]]
 meestal bloed uit iriswortel of corpus ciliare
 cave aanhoudend bloeden -> hoge IOP
 
@@ -29,7 +29,7 @@ iridodialyse: iriswortel is los van corpus ciliare gekomen
 
 #### Lens
 Cataract vaak na trauma
-ofwel door schade aan lensweefsel zeld
+ofwel door schade aan lensweefsel zelf
 ofwel door schade aan lenskapsel -> glasvocht in lenszak -> lensvezels hydrateren -> worden ondoorzichtig
 Rosette cataract: posterior subcapsulaire cortex ondoorzichtig, volgt de 'sutures' -> kan blijven of erger worden
 

@@ -11,5 +11,5 @@ types:
 - overig
 
 > [!danger] BCC kan lijken op blefaritis
-	
+
 ![[Pasted image 20240716193125.png]]

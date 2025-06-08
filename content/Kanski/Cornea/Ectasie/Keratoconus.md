@@ -2,7 +2,7 @@ stromale verdunning, (para)centraal, progressief
 geeft apicale uitstulping en astigmatisme
 andere 'normale' oog volgt in 50% binnen 16j
 gradering o.b.v. as van corneale breking
-- mild <48 [[Dioptrie - D]]
+- mild <48 [[Dioptrie]]
 - moderate 48-54D 
 - ernstig >54D
 

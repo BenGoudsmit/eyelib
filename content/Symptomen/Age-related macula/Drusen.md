@@ -3,11 +3,17 @@ aliases:
   - drusen
 ---
 
-immunologische en metabole processen in RPE: 'het leven' geeft
-extracellulaire afzettingen tussen RPE en Bruch membraan
-zeldzaam <40, vaak >60
-sterke associatie tussen grootte drusen en risico op AMD
+immunologische en metabole processen in RPE: 'het leven' geeft.
+extracellulaire afzettingen:
+- basaal laminar: RPE cel basis en RPE basaal membraan
+	- lipofiel: dus samenvloeiend: geeft [[Pigment epitheel loslating|PEL]] omdat vocht niet weg kan.
+- Bruch binnenste collagene laag en RPE basaal membraan
+	- samenvloeiend: drusenoïde PEL
+zeldzaam <40, vaak >60.
+sterke associatie tussen grootte drusen en risico op AMD.
 > al dat licht het hele leven lang, op een gegeven moment slijt dat nevlies #Misotten
+
+![[Pasted image 20250607113847.png]]
 
 ### Classificatie
 - klein: <0.5 diameter vene bij papil (<=0.63 micron)

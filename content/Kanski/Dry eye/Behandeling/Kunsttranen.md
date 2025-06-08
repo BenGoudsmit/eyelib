@@ -11,7 +11,7 @@ Belangrijk: de ene druppel is niet beter dan de andere: subjectief
  
 Zalf: met name ante noctem
 
-> [!NOTE]- Conserveringsmiddelen
+> [!NOTE] Conserveringsmiddelen
 > Kunnen toxisch zijn: met name bij gesloten punctum
 > Als >mild of >3dd druppen: voorkeur geen conserveringsmiddelen.
 

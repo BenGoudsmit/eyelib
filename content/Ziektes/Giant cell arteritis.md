@@ -23,7 +23,7 @@ niet specifiek, passend bij ontsteking: gewichtsverlies, koorts, nachtzweten, de
 dikke, pijnlijke arteriën
 typisch! pulserende vaten, die later weer weggaan
 oogspieren kunnen uitvallen
-[[Nervus oculomotorius]] kan uitvallen met pupil betrokkenheid
+[[Anatomie/Orbita en oogleden/Nervus oculomotorius]] kan uitvallen met pupil betrokkenheid
 
 ![[Pasted image 20240627143314.png]]
 ### aanvullend onderzoek

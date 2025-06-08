@@ -1,4 +1,5 @@
 # Chloroquine en hydroxychloroquine
+[[Plaqueniel]]
 anti malaria
 maar vooral ook tegen reuma
 

@@ -2,6 +2,7 @@ encephalotrigeminale angiomatose
 geeft:
 - [[Port-wijn vlek]] in trigeminus gebied
 - leptomeningeaal hemangioom -> hierdoor epileptische insulten, hemipareses, hemianopsie
+
 oculair:
 - glaucoom
 - episcleraal hemangioom

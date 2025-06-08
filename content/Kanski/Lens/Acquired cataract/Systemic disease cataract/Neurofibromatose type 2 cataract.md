@@ -1,2 +1,3 @@
+subcapsulair
 60% ontwikkeld vroege volwassen leeftijd.
-[[neurofibromatosis]] 
+[[Neurofibromatose#NF-2|NF-2]] 

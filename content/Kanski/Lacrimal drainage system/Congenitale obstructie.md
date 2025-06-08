@@ -1,5 +1,5 @@
 20% neonaten hebben [[epiphora]], doordat onderste deel ductus nasolacrimale vaak nog niet open is bij geboorte
-gaat in 85% gedurende 1e vanzelf over
+gaat in 85% gedurende 1e jaar vanzelf over
 denk ook aan ontsteking, [[Chlamydia in volwassenen|Chlamydia in volwassenen]] die via geboorte is doorgegeven, atresie
 > [!danger] Epiphora in kleine kinderen kan wijzen op [[Primair congenitaal glaucoom]]
 

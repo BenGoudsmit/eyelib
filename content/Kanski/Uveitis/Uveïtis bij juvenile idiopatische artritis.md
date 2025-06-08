@@ -1,4 +1,6 @@
 1:1000 prevalentie
+> [!NOTE] meest voorkomende uveïtis bij kinderen
+
 etiologie atritis is onbekend
 <16j
 chronische, niet-granulomateuze ontsteking

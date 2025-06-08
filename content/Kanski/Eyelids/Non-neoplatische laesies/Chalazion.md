@@ -1,8 +1,8 @@
 Meiboomse cyste
-<span style="background:#fff88f">lipogranulomateus materiaal</span>
+lipogranulomateus materiaal
 stereile chronische granulomateuze inflammatoire laesie
 opgehoopte talgsecreties uit Meiboom of soms Zeis
-<span style="background:#fff88f">recidiverend: biopsie om onderliggende maligniteit uit te sluiten</span>
+recidiverend: biopsie om onderliggende maligniteit uit te sluiten
 
 > [!NOTE] Chalazion versus hordeolum
 > Chalazion is steriele onsteking, hordeolum is secundair geïnfecteerd.

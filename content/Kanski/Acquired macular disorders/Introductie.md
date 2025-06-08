@@ -1,5 +1,5 @@
 macula ligt tussen temporale vaatbogen
-heeft meerdere lagen gangliocellen
+heeft meerdere lagen ganglioncellen
 macula lutea: gelige pigmenten luteïne en zeaxanthine
 fovea: gebied ~1 papildiameter grootte (1.5mm)
 foveola: 0.35mm centrum fovea met alleen maar kegels en Müllercellen
@@ -70,4 +70,4 @@ indicaties:
 - vervolgen van vaten over de tijd
 
 ### Auto-flu
-visualiseert lipofuscine in het RPE
+visualiseert [[lipofusceïne]] in het RPE

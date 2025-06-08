@@ -7,9 +7,29 @@ remming van het enzym koolzuuranhydrase in het corpus ciliare.
 - Bij corneaal ulcus of [[Opleiding/Onderwijs/Cornea perforatie|cornea perforatie]]: door samenvallen oog kan wond soms herstellen. 
 
 niet bij:
+- nierinsufficiëntie: vanwege systemisch vochtverlies
+- [[sulfonamide]] allergie
 - mensen met endotheeldysfunctie -> cornea decompensatie
 - kan beenmerg onderdrukken
 - [[sikkelcel anemie]] en [[Sikkelcel retinopathie]]
+- Levercirrose
+- nierinsufficientie dosis aanpassen
+
+Bijwerkingen tablet 
+- koolzuurhoudende dranken niet verdragen
+- Acidose
+- Hypokaliemie
+- Depressie
+- Malaise
+- Flatulentie
+- Diarree 
+- beenmergdepressie
+
+Bijwerkingen druppel:
+- myopie
+- Wazig visus
+- Punctate keratitis
+- Conjunctivitis 
 
 > [!danger]- Teratogeen
 > Niet gebruiken in zwangeren!
@@ -23,6 +43,7 @@ Wij gebruiken meestal [[acetazolamide|diamox]] en [[dorzolamide]] (in [[cosopt]]
 Dorzolamide:
 - prikt, bittere smaak na toedienen
 - allergische blepharitis
+
 Brinzolamide:
 - minder prikken
 - wit residu blijft over, dus overtollig wegvegen

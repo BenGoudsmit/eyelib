@@ -3,6 +3,8 @@ passieve, productie-afhankelijke afvoer van kamerwater
 worden vaker gebruikt sinds aangetoond even veilig als trabeculectomie met mitocyne C
 
 Baerveldt: siliconen, weinig weefselreactie
+Stent enkele weken laten zitten 
+
 Ahmed: met klepje (doel postoperatieve hypotonie verminderen)
 
 Indicatie: 

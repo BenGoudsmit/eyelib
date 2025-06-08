@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"040b70de82c4814c","type":"text","text":"Scleritis","x":-125,"y":-200,"width":250,"height":60},
+		{"id":"2809418c6205c42f","type":"text","text":"immuun-gemedieerd","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"653cc6f02586b3ce","type":"text","text":"infectieus","x":-125,"y":-360,"width":250,"height":60},
+		{"id":"f879324df7378014","type":"text","text":"Anterior","x":220,"y":-30,"width":250,"height":60},
+		{"id":"5b1955b702781a80","type":"text","text":"Nodulair","x":500,"y":-30,"width":250,"height":60},
+		{"id":"a18a6499c501f35c","type":"text","text":"Necrotiserend ","x":500,"y":80,"width":250,"height":60},
+		{"id":"3985dff8535aa56a","type":"text","text":"zonder ontsteking","x":660,"y":220,"width":250,"height":60},
+		{"id":"7387c7e706f4b6c5","type":"text","text":"Diffuus","x":500,"y":-140,"width":250,"height":60},
+		{"id":"3088fa13410938c7","type":"text","text":"met ontsteking","x":345,"y":220,"width":250,"height":60},
+		{"id":"968a21570b32d950","type":"text","text":"Posterior","x":-440,"y":-30,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"302021e1f09539d7","fromNode":"f879324df7378014","fromSide":"top","toNode":"7387c7e706f4b6c5","toSide":"left"},
+		{"id":"9c4f3d80a6ba52a5","fromNode":"f879324df7378014","fromSide":"right","toNode":"5b1955b702781a80","toSide":"left"},
+		{"id":"5ae0908ca6fcadd5","fromNode":"f879324df7378014","fromSide":"bottom","toNode":"a18a6499c501f35c","toSide":"left"},
+		{"id":"87b37b35632ba080","fromNode":"a18a6499c501f35c","fromSide":"bottom","toNode":"3088fa13410938c7","toSide":"top"},
+		{"id":"fc665e9502bc277e","fromNode":"a18a6499c501f35c","fromSide":"bottom","toNode":"3985dff8535aa56a","toSide":"top"},
+		{"id":"87de206597bb3d13","fromNode":"040b70de82c4814c","fromSide":"bottom","toNode":"2809418c6205c42f","toSide":"top"},
+		{"id":"fbbc819a778d9a88","fromNode":"040b70de82c4814c","fromSide":"top","toNode":"653cc6f02586b3ce","toSide":"bottom"},
+		{"id":"006b74b7866f3313","fromNode":"2809418c6205c42f","fromSide":"right","toNode":"f879324df7378014","toSide":"left"},
+		{"id":"6f08154661a0f646","fromNode":"2809418c6205c42f","fromSide":"left","toNode":"968a21570b32d950","toSide":"right"}
+	]
+}

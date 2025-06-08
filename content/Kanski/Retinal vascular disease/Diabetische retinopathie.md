@@ -1,6 +1,10 @@
 ~40% diabeten -> DRP
+- type 1: 50%
+- typ2: 30%
+
 als DM1: 90% binnen 30 jaar
 macula oedeem leidt vaakst tot zichtverlies
+
 > [!NOTE] Centraal probleem is verminderde kwaliteit vaatwanden!
 > Hierdoor vaatveranderingen, stase, lekkage (bloed, metabolieten), etc.
 

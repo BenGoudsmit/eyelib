@@ -18,7 +18,7 @@ Directe vorm:
 - Ptosis
 - [[Ophthalmoplegie]] in 60-70%:
     - mn [[Anatomie/Orbita en oogleden/Nervus abducens|6e CN]] als eerste aangedaan, hangt vrij in sinus
-    - [[nervus oculomotorius|3e CN]] en [[Anatomie/Orbita en oogleden/Nervus trochlearis|4e CN]] minder vaak aangedaan.
+    - [[Anatomie/Orbita en oogleden/Nervus oculomotorius|3e CN]] en [[Anatomie/Orbita en oogleden/Nervus trochlearis|4e CN]] minder vaak aangedaan.
 - In fundo: papiloedeem, tortueuze venen, bloedingen (zoals [[Kanski/Retinal vascular disease/CRVO|CRVO]])
 - Behandeling: coilen arterie als niet spontaan dicht
  

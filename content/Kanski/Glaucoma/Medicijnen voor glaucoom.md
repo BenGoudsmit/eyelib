@@ -5,8 +5,8 @@ traanpunt dichtdrukken en ogen 3 minuten sluiten -> 50% minder systemisch effect
 1. [[Prostaglandines]] boven betablokkers: want minder systemische bijwerkingen.
 2. [[betablokkers]] 
 3. [[alpha-2-agonisten]] 
-4. topicale [[Koolzuuranhydraseremmer|koolzuuranhydraseremmers]] 
-5. [[miotica]] 
+4. topicale en systemische [[Koolzuuranhydraseremmer|koolzuuranhydraseremmers]] 
+5. [[miotica]] of cholinergica
 
 #### Combinatiepreparaten
 

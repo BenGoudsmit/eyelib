@@ -56,7 +56,7 @@ niet beter dan Mitomycine C
 
 
 ### Oppervlakkige VOK na trabeculectomie
-kan leiden tot [[perifere anterior synechiae - PAS]], schade aan cornea endotheel en cataract
+kan leiden tot [[perifere anterior synechiae]], schade aan cornea endotheel en cataract
 
 
 > [!NOTE]- VOK diepte, bleb en Seidel
@@ -66,7 +66,7 @@ kan leiden tot [[perifere anterior synechiae - PAS]], schade aan cornea endothee
 1. pupillaire blokkade: niet-patente perifere iridectomie
 	1. hoge IOP, platte bleb -> dus lekt geen vloeistof weg
 	2. negatieve [[Seidel test]]
-	3. [[iris bombé]]
+	3. [[iris bombans]]
 	behandeling: laser epitheel weghalen of nieuw gat maken
 
 2. overfiltratie: bleb lekkage of te weinig weerstand
@@ -74,7 +74,7 @@ kan leiden tot [[perifere anterior synechiae - PAS]], schade aan cornea endothee
 	2. positieve [[Seidel test]] bij gat in bleb
 	3. cornea hypotonie: [[Descement plooien]]
 	4. soms choroïdale loslating
-	behandeling: klein gat kan spontaan dichten, [[atropine]] tegen [[perifere anterior synechiae - PAS]], extra hechtingen of flap
+	behandeling: klein gat kan spontaan dichten, [[atropine]] tegen [[perifere anterior synechiae]], extra hechtingen of flap
 
 3. Maligne glaucoom: complicatie bij [[Primary angle-closure glaucoma - PACG]], komt neer op [[aqeous misdirection]] 
 	1. ondiepe of afwezig VOK, hoge IOP, myope shift

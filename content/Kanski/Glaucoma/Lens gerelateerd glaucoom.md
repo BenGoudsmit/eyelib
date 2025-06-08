@@ -9,7 +9,7 @@ behandeling: eiwitten wegspoelen, cataractextractie
 ### phacomorf glaucoom
 acuut gesloten kamerhoek glaucoom
 door leeftijd slappere weefsels en verplaatsing lens naar anterior
-iridolenticulair contact -> [[iris bombé]] 
+iridolenticulair contact -> [[iris bombans]] 
 dus ondiepe VOK (andere oog niet aangedaan)
 behandelen net als [[Primary angle-closure glaucoma - PACG]] 
 cataract extractie

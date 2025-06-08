@@ -10,11 +10,11 @@ Staar risico verhoging, maar minder dan [[Steroïden systemisch]]
 > - Cornea erosies: verminderde synthese collagenen
 >   
 > Macula:
-> [[Centraal sereuze chorioretinopathie - CSCR|Centraal sereuze chorioretinopathie]] wordt verergerd!
+> [[Centraal sereuze chorioretinopathie|Centraal sereuze chorioretinopathie]] wordt verergerd!
 > 
 
 
-Drukstijging [[Intra-oculaire druk - IOP]]
+Geeft [[Steroïd-geïnduceerd glaucoom]]
 - tussen 4-8 weken, verwachtte piek rond 6 weken. 
 - Hangt af van penetratie van steroid door weefsels: [[pred forte]] is acetaat. Dringt door vetten. 
 - Hangt af van type receptoren in het oog. Ene persoon veel stijging, andere weinig. Verschilt ook weer per steroïd. 

@@ -4,11 +4,14 @@ meestal middelbare leeftijd
 zelf limitterend, enkele dagen tot weken
 geassocieerd met oculaire en systemische aandoeningen
 
+> [!NOTE] Blanching: verschil epi- en scleritis phenylepinefrine geven
+> Oppervlakkige plexus zal samentrekken binnen 2 minuten: dan episcleraal. Maak foto voor en na.
+
 ### Simpele episcleritis
 75% van de gevallen, komt snel opzetten, is snel weer weg.
 branderig gevoel soms, typisch bilateraal, visus goed
 typisch is driehoekige configuratie, start bij de limbus
-Behandeling meestal niet, soms koude compressen of koude kunsttranen, soms topicaal steroïd 4dd
+Behandeling meestal niet, NSAIDS kan, soms koude compressen of koude kunsttranen, soms topicaal steroïd 4dd
 ![[Pasted image 20240521212509.png]]
 
 ### Nodulaire episcleritis

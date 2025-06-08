@@ -1,4 +1,6 @@
-zeldzaam, idiopathisch, bilateraal, meestal op jonge leeftijd.
+zeldzaam, idiopathisch (vermoedelijk viraal), bilateraal, meestal op jonge leeftijd.
+klachten van recidiverende aanvallen van irritatie, fotofobie, wazig zien en tranenvloed
+Kenmerkend zijn centraal gelegen grove, korrelige, licht verhoogde, grijsachtige epitheliale laesies
 Geeft centrale ronde epitheelafwijkingen die aankleuren, met later eventuele subepitheliale haze.
 Behandeling:
 - lubricantia

@@ -7,6 +7,10 @@ afwijkende vorm hemoglobine
 hierdoor occlusie en verminderde flow -> retinale ischemie
 hier kan netvlies op reageren:
 
+
+> [!danger] geen [[Koolzuuranhydraseremmer]] geven!
+> verergert sikkelcellen
+
 ### niet proliferatief
 salmon patches (oppervlakkige intraretinale bloedingen) en black sunbursts (RPE hyperplasie en chorioretinale atrofie) zijn typisch
 ![[Pasted image 20240606145059.png]]

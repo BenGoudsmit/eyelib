@@ -17,3 +17,6 @@ gezichtsvelduitval plots, progressief
 
 ![[Pasted image 20240613101602.png]]
 
+### AO
+OCT
+echo maken

@@ -10,6 +10,7 @@ behandeling: laser, [[anti-VEGF injecties]]
 ![[Pasted image 20240610115535.png]]
 
 # Type 2 perifoveaal teleangie
+meest voorkomend
 bilateraal, 0.1% boven 40j, slechte prognose
 mogelijk defecte Müllercellen als oorzaak
 perifoveaal (onderscheid met 1)

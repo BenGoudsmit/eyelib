@@ -1,0 +1,1 @@
+Onderscheid [[Endophthalmitis]]: [[pred forte]] druppelen: als ontsteking weg dan TASS. Maar kan lastig zijn

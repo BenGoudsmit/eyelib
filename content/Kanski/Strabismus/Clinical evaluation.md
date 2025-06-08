@@ -49,4 +49,4 @@ strabisme door spieruitval, of door mechanische oorzaak (ontsteking zoals Graves
 ### Fundoscopie
 altijd doen bij strabisme om organische oorzaken te achterhalen.
 hypermetropie meest voorkomende refractaire afwijking met strabisme
-altijd [[cycloplegia]] geven, om maskering van accomodatie te voorkomen!
+altijd [[cycloplegie]] geven, om maskering van accomodatie te voorkomen!

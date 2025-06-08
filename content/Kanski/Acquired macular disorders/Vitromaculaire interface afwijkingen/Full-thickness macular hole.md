@@ -1,5 +1,13 @@
+---
+aliases:
+  - maculagat
+  - Maculagat
+  - macular hole
+---
+
 komt redelijk vaak voor: 3/1000, meestal 60-70j
-oorzaken meestal tractie, hoge myopie, trauma
+oorzaken meestal leeftijd, tractie, hoge myopie, trauma
+zeldzamere oorzaken: altijd vorm van [[cystoïd macula oedeem]] (denk aan [[Hypertensieve oogziekte]], [[Diabetische retinopathie]],[[CRVO]],[[BRVO]])
 OCT classificatie
 
 #### kliniek
@@ -9,7 +17,7 @@ stages:
 1a: 'impeding' : afplatten foveal spot
 1b: 'occult': gat is getrokken, maar nog afgedicht
 2: 'small full thickness hole' <400 micron in diameter, je ziet dat het gat getrokken is door vitromaculaire adhesie (C)
-3: 'full size macular hole'
+3: >400 microm 'full size macular hole'
 4: 'fill size macular hole with PVD' -> dan ook ring van Weiss
 
 ![[Pasted image 20240610100402.png]]

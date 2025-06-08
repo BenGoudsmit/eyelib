@@ -40,9 +40,6 @@ Fibrotische contracturen van levator palpebrae en inferior rectus.
 ![[Pasted image 20240720132954.png]]
 #### [[proptosis]] 
 Met name uiteindelijke exposure keratopathie grootste bedreiging visus.
-Opticus neuropathie
-- Tot 6% van patiënten.
-- Vraag naar kleursaturatie (rood), evalueer RAPD, sluit andere symptomen van Graves uit.
 #### Restrictieve myopathie
 30-50% van Graves -> kan permanent zijn! (door fibrose)
 Van meest naar minst voorkomend:
@@ -53,7 +50,7 @@ Van meest naar minst voorkomend:
 > [!NOTE] I'M SLow
 
 #### Opticus neuropathie
-tot 6%
+tot 6% (RAPD, kleursaturatie)
 serieuze complicatie
 compressie opticus of directe bloedvoorziening
 > [!NOTE] opticopathie kan ook zonder proptosis optreden!

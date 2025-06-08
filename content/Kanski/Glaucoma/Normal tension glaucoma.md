@@ -9,7 +9,7 @@ is eigenlijk een continuüm met [[Primair open kamerhoek glaucoom - POAG|POAG]],
 - ras: Japanners
 - familieanamnese
 - [[Central corneal thickness - CCT]]
-- abnormale vasoregulatie: [[migraine]] en [[Raynaud fenomeen]] 
+- abnormale vasoregulatie: [[Migraine]] en [[Raynaud fenomeen]] 
 - hypotensie: met name 's nachts dippen (hypoperfusie?)
 - Schildklierziekten 
 
@@ -21,7 +21,7 @@ p 369 Kanski hele lijst
 veel overlap met POAG
 Specifieke aandachtspunten:
 anamnese:
-- [[migraine]] en [[Raynaud fenomeen]]
+- [[Migraine]] en [[Raynaud fenomeen]]
 - hoofdtrauma, oogverwondingen
 - hoofdpijn, neurologische uitval (intracraniële pathologie)
 - shock doorgemaakt

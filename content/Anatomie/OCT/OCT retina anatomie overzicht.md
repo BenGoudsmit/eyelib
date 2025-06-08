@@ -9,7 +9,7 @@
 - [[outer nuclear layer]]
 - [[external limiting membrane]]
 - [[photoreceptor layer]]
-- [[Retinal pigment epithelium - RPE]]
+- [[Retinal pigment epithelium]]
 - [[Bruch membrane]]
 - [[choriocapillaris]]
 

@@ -58,7 +58,7 @@ Systemisch:
 - kinderarts
 
 ### Behandeling
-vroeg cataract behandeling: groot risico juveniel glaucoom
+vroeg cataract behandeling: groot risico juveniel glaucoom 
 indicaties:
 - unilateraal dens: snelste indicatie, 4-6 weken, hierna agressief amblyopie behandelen. 
 	- na 16 weken: uitkomsten zeer slecht

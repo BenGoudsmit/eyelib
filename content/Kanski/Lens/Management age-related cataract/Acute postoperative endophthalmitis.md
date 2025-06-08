@@ -18,15 +18,16 @@ profylaxe:
 Er kan twijfel zijn over juiste diagnose, bij twijfel behandelen als endophthalmitis
 
 #### Differentiaal diagnose
+- [[TASS]]
 - achtergebleven lens materiaal -> uveïtis, cornea oedeem, verhoogde IOP
 - glasvochtbloeding
 - postoperatieve uveïtis: als milde ontsteking, valt eerst steroïd te overwegen
-- toxiciteit/reactie tegen gebruikte vloeistoffen (dan ook [[Steroïden oculair]] en [[cycloplegia]])
+- toxiciteit/reactie tegen gebruikte vloeistoffen (dan ook [[Steroïden oculair]] en [[cycloplegie]])
 - lange, complexe operatie: cornea oedeem en uveïtis
 
 #### Aanvullend onderzoek:
 - Echo: uitsluiten netvliesloslating
-- VOK vocht aspiratie (0.1-0.2 ml) met 25 [[gauge]] naald
+- VOK vocht aspiratie (0.1-0.2 ml) met 25 [[Gauge]] naald
 - conjunctivale swabs
 
 #### Behandeling

@@ -3,7 +3,7 @@ in 8% populatie
 meestal vanaf 20-30j
 1% risico op ablatio 
 
-pathofysiologie: onderbreking van de internal limiting membrane
+pathofysiologie: onderbreking van de [[internal limiting membrane]]
 onderliggend RPE atrofie
 
 #### kliniek
@@ -23,10 +23,9 @@ wordt gezien alas voorloper van lattice
 
 # Cystic retinal tuft
 zit ver perfifeer, wss ondergediagnosticeerd
-
 # Degeneratieve retinoschisis
 5% populatie >20j, vooral hypermetropen (kort oog -> sneller plooien naar binnen)
-mechanisme: microcystes conflueren -> meestal scheur t.p.v. outer nuclear layer
+mechanisme: microcystes conflueren -> meestal scheur t.p.v. [[outer nuclear layer]]
 daar verlies van functie, atrofie
 
 #### kliniek
@@ -37,6 +36,10 @@ op OCT: als de stutten van een kathedraal die grotere blaas ondersteunen (C)
 	verschilt van rhegmatogene ablatio (D)
 belangrijk om ook klinisch dit verschil te maken: in fundo is retinoschisis glad, ovaalvormig, doorzichtig. 
 Rhegmatogene ablatio is ondoorzichtig en rafelig.
+
+> [!NOTE] Retinoschisis pakt altijd de laser
+> Kun je gebruiken voor onderscheid met ablatio
+
 
 ![[Pasted image 20240612073921.png]]
 
@@ -49,7 +52,7 @@ kleine kans tot rhegmatogene ablatio (1%)
 laseren wanneer progressie richting fovea
 
 # White with pressure
-sclera indrukken -> grijzig-wittige plek die niet beweegt
+sclera drukt tegen retina aan = indentation -> grijzig-wittige plek die niet beweegt
 geassocieerd met extra sterke aanhechting glasvocht
 
 # White without pressure

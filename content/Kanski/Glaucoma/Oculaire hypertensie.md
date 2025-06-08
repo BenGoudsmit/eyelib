@@ -9,7 +9,7 @@ boven 70j: bovengrens 23 mmHg
 Oculaire hypertensie: 
 - IOP>21mmHg zonder glaucoomschade 
 - ongeveer 4-7% van normale populatie
-- 10% hiervan ontwikkeld glaucoom binnen 10 jaar
+- 10% hiervan ontwikkelt glaucoom binnen 10 jaar
 
 ![[Pasted image 20240525084718.png]]
 

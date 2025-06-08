@@ -13,11 +13,11 @@ geeft typisch uveïtis met fibreus exudaat, maar weinig cellen
 tegen botontkalking
 bijwerking: activatie van T-cellen ->  geeft uveïtis
 
-# Sulfonamides
-geeft ook risico op Steven-Johnson
+# [[sulfonamide]]
+geeft ook risico op [[Kanski/Conjunctiva/Conjunctivitis in blistering mucocutaneous disease/Steven-Johnson syndrome|Steven-Johnson syndrome]] 
 
 # Fluorquinolonen
-geeft acute pigment dispersie in voorsegment
+geeft acute pigment dispersie in voorsegment: en dus [[Pigment dispersie syndroom]]?
 
 # TNF tumor necrosis factor inhibitors
 etanercept, infliximab, adalimumab

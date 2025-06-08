@@ -117,6 +117,7 @@ Versie: ogen bewegen simultaan en houden hoek tussen elkaar constant
 Clycloversie: als je hoofd kantelt -> houden ogen recht.
 
 Vergentie: hoek tussen ogen verandert
+
 Convergentie kan vrijwillig of reflexmatig -> belangrijk voor zicht
 reflexmatig:
 - tonisch: spierspanning rectus medialis
@@ -129,7 +130,7 @@ $$
 	AC/A
 $$
 - maat voor convergentie: [[prisma dioptrie]] 
-- maat voor accommodatie: [[Dioptrie - D]] 
+- maat voor accommodatie: [[Dioptrie]] 
 - normaal: 1 dioptrie accommodatie gepaard met 3-5 prisma dioptrie
 
 > [!question]- Near triad bestaat uit? 

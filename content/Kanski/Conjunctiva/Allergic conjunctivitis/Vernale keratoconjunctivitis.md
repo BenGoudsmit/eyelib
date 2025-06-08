@@ -2,7 +2,6 @@ Pathogenese: _zowel IgE als cel gemedieerde immuunrespons_
 Immuunrespons:
 - bij IgE scheiden plasmacellen antilichamen uit die binden￼op allergeen.
 - Bij cel-gemedieerde afweer worden T cellen specifiek geactiveerd om cellen te doden.
- ![Humoral and cell-mediated adaptive immune responses. Adaptive immunity... |  Download Scientific Diagram](Exported%20image%2020240514103425-0.png)  
 - Voornamelijk mannen
 - In droge, warme klimaten (Mediterraans, sub-Sahara Afrika, Midden-Oosten)
 - vanaf 5 jaar tot remissie na pubertijd (95%).

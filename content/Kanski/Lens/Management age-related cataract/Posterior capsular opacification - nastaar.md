@@ -4,7 +4,7 @@ proliferatie van lens epitheel dat is achtergleven in lenszak
 behandeling YAG
 
 ### Symptomen
-- blur, glare, geleidelijk, soms [[mono-oculaire diplopie]]
+- blur, glare, geleidelijk, soms [[diplopie#monoculaire diplopie|mono-oculaire diplopie]] 
 - verschillende types
 	- A: vacuole of parel type [[Elschnig pearls]], lijkt erg op [[Subcapsularis cataract]]  
 	- B: typisch is dat [[Elschnig pearls]] rond de rand verzamelen

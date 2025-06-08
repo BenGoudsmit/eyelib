@@ -7,7 +7,7 @@ Trap 1:
 - Minder droge omgevingen: bevochtigen.
 - Refractaire laserchirurgie: verergert droge ogen.
 - Kunsttranen
-- [[Symptomen/Oogleden/Blepharitis]] verhelpen
+- [[Kanski/Eyelids/Blepharitis|Blepharitis]] verhelpen
  
 Trap 2:
 - Kunsttranen zonder conserveelmiddelen
