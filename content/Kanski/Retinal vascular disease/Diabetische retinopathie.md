@@ -1,12 +1,28 @@
+---
+aliases:
+  - DRP
+---
+### Introductie
+DM1 -> 99% retinopathie.
+DM2 -> 60% retinopathie. 30% hiervan slechte visuele prognose.
 ~40% diabeten -> DRP
 - type 1: 50%
 - typ2: 30%
 
-als DM1: 90% binnen 30 jaar
-macula oedeem leidt vaakst tot zichtverlies
+als DM1: 90% binnen 30 jaar.
+macula oedeem leidt vaakst tot zichtverlies.
+30% van DRP leidt tot visus-bedreigende vorm.
 
 > [!NOTE] Centraal probleem is verminderde kwaliteit vaatwanden!
+> Endotheelschade en pericytverlies.
+> 
 > Hierdoor vaatveranderingen, stase, lekkage (bloed, metabolieten), etc.
+> 
+> Daarna ischemie.
+> 
+> Uiteindelijk [[angiogenese]].
+
+
 
 Risicofactoren DRP:
 - hoe lang bekend met diabetes
@@ -15,7 +31,112 @@ Risicofactoren DRP:
 - nefropathie
 - zwangerschap
 
-#### insight ophthalmology achtergrond
+
+#### classificatie
+*niet proliferatief:*
+- geen/achtergrond DRP: enkele micro-aneurysmata
+- milde DRP: bloedinkjes, [[cotton-wool spots]], exudaten
+- moderate: IRMA's, 1-3 kwadranten met >20 bloedingen, [[Histopathologie/venous beading]] in 1 kwadrant
+- severe: 1 van de 4-2-1 regel: 4 kwadranten veel bloedingen, 2 kwadranten met venous beading, 1 of meer kwadranten met IRMA
+	- 15% 1-jaars kans proliferatieve DRP
+- very severe: 2 of meer 4-2-1 criteria
+	- 45% 1-jaars kans proliferatieve DRP
+
+*proliferatief*:
+- mild-moderate: neo's maar niet voldoende voor high risk
+- high risk: new vessels on disk >1/3e diameter, NVD met glasvochtbloeding, new vessels elsewhere >1/2 disk area met glasvochtbloeding
+
+
+> [!NOTE] Door ischemie ontstaat proliferatie
+> Ongeveer 25% van retina 'moet' ischemisch zijn voordat proliferatie optreedt
+
+> [!NOTE]- ETRDS classificatie diabetische retinopathie
+> ![[Pasted image 20240605123647.png]]
+
+### niet-proliferatieve diabetische retinopathie
+
+Alle bovenstaande gevolgen van diabetes die niet voor bij die ILM reiken.
+Hoeksteen behandeling is regulatie suikers, hyperlipedimie en hypertensie.
+### proliferatieve diabetische retinopathie
+angiogenese intraretinaal, meestal naar glasvocht toe, met fibreuze complexen die kunnen bloeden en samentrekken.
+nieuwe vaten gaan gepaard met fibrose en bloedingen.
+New vessels at the disk (NVD): op of binnen 1 papildiameter van papil
+NVE: vaatnieuwvorming verder weg van papil
+[[rubeosis iridis]] kan ook optreden en geeft grote kans op [[neovasculair glaucoom]]
+
+neo's kleuren vroeg aan op FAG! Met late lekkage.
+
+NVD:![[Pasted image 20240605202848.png]]
+
+NVE:
+![[Pasted image 20240605202931.png]]
+
+#### kliniek
+oculaire complicaties
+Vaak voorkomend:
+- diabetisch macula oedeem
+- macula ischemie -> hierbij neo's, bloedingen, loslatingen
+- kleine iris defecten (soort [[Iris atrofie]]?)
+- refractie onstabiel (afhankelijk van suiker)
+
+zeldzamer: xanthelasma, versneld cataract, [[neovasculair glaucoom]], [[Neurotrofe keratopathie]]
+
+### diagnostiek
+als (vermoeden op) proliferatieve ziekte: FAG binnen enkele weken: vraagstelling NVE, ischemie?
+
+### behandeling
+#### npDRP 
+suikers instellen: HbA1c < 53 mmol/L.
+cardiovasculair risicomanagement (bloeddruk, cholesterol, nierfunctie).
+Huidige consensus: anti-VEGF geeft geen verbetering in visuele uitkomsten.
+
+> [!NOTE] Hyperlipidemie
+> Geeft DME met harde exudaten: meer visus verlies!
+
+https://vba.vitbucklesociety.org/clinical-trial-guides
+#### [[Diabetisch macula oedeem|DME]] behandeling
+Start anti-VEGF als visus <0.8 en klinisch significant DME.
+- Protocol AC:
+	- start avastin en switch naar Eylea even effectief als starten Eylea.
+- Protocol T:
+	- Eylea werkt beter dan Avastin of Lucentis
+	- doordat het meer verbetering geeft in slechtste visus.
+- Protocol V:
+	- Als visus >0.7 en DME: je kunt observeren.
+	- Als dan visusvermindering starten met Eylea 
+	- Dit geeft even goede uitkomsten als gelijk starten met Eylea
+	- En bespaart veel patiënten veel prikken.
+
+#### pDRP behandeling
+Als er ook neo's zijn: eerst vocht weg met IVI's, dan verdere neo's voorkomen met laser.
+PDT: blijft relevant, met name wanneer exudaten fovea bedreiden
+
+[[Panretinale fotocoagulatie|PRP]] blijft relevant voor proliferatieve DRP, maar anti-VEGF's even effectief.
+Belangrijke afwegingen voor de patiënt:
+- we kunnen PRP geven en hierdoor het risico op lekkende of bloedende bloedvaten sterk verminderen.
+	- hierdoor wordt het centrale zicht wellicht goed behouden maar versmalt de breedte van het blikveld naar 50-60 graden centraal. 
+	- Als het andere oog niet goed is betekent dit dat je rijbewijs waarschijnlijk niet verlengt wordt.
+- ook kunnen we anti-VEGF geven
+	- hier zul je dan (levens)lang mee door moeten gaan, op het begin elke maand een prik en daarna uitbreiden als we zien dat het lekken van vocht weg blijft.
+
+### advanced disease
+gekenmerkt door 
+- bloedingen: retrohyalien of in het glasvocht 
+- tractionele ablatio's -> vaak met bloedingen: uit neo's
+- [[rubeosis iridis]] en [[neovasculair glaucoom]]
+
+#### chirurgische behandeling advanced DRP
+Indicaties pars plana vitrectomie:
+- aanhoudende bloedingen
+- progressief tractionele ablatio
+- retrohyaloïd bloed voor macula: als na 6 weken geen verbetering #Missotten 
+- anterior segment neo's = PRP. 
+
+![[Pasted image 20240605220225.png]]
+
+
+---
+### insight ophthalmology achtergrond
 door de permanent hoge suikers wordt polyol pathway actief
 hierdoor minder NADPH (reductie capaciteit) -> meer vrije radicalen -> oxidatieve schade
 meer sorbitol (osmotisch actief)
@@ -37,26 +158,6 @@ bovenstaande geeft:
 - daarbij vasculaire shunting (IRMA)
 - daardoor ischemie
 - daardoor neovascularisaties -> kans op bloedingen
-#### classificatie
-niet proliferatief:
-- geen/achtergrond DRP: enkele micro-aneurysmata
-- milde DRP: bloedinkjes, [[cotton-wool spots]], exudaten
-- moderate: IRMA's, 1-3 kwadranten met >20 bloedingen, [[Histopathologie/venous beading]] in 1 kwadrant
-- severe: 1 van de 4-2-1 regel: 4 kwadranten veel bloedingen, 2 kwadranten met venous beading, 1 of meer kwadranten met IRMA
-	- 15% 1-jaars kans proliferatieve DRP
-- very severe: 2 of meer 4-2-1 criteria
-	- 45% 1-jaars kans proliferatieve DRP
-
-proliferatief:
-- mild-moderate: neo's maar niet voldoende voor high risk
-- high risk: new vessels on disk >1/3e diameter, NVD met glasvochtbloeding, new vessels elsewhere >1/2 disk area met glasvochtbloeding
-
-
-> [!NOTE] Door ischemie ontstaat proliferatie
-> Ongeveer 25% van retina 'moet' ischemisch zijn voordat proliferatie optreedt
-
-> [!NOTE]- ETRDS classificatie diabetische retinopathie
-> ![[Pasted image 20240605123647.png]]
 
 ### tekens
 
@@ -96,17 +197,10 @@ klinisch:
 ![[Pasted image 20240605171440.png]]
 
 
-#### diabetisch macula oedeem
-diffuus oedeem door capillaire lekkage en focaal bij aneurysmata
-initieel tussen buitenste plexiforme laag en binnenste nucleaire laag (dus uit buitenste plexus)
-wanneer fovea vocht stapelt: cysteus aspect = [[cystoïd macula oedeem]]
-- focaal: omschreven retinale verdikking door vocht, daarbij ringvormige exudaten
-- diffuus: met cystoïde afwijkingen, micro-aneurysmata, bloedingen
+#### [[Diabetisch macula oedeem|DME]]
 
+![[Pasted image 20250614100521.png]]
 
-![[Pasted image 20240605201011.png]]
-
-![[Pasted image 20240605201144.png]]
 
 #### cotton-wool spots
 neuronaal afval in de zenuwvezellaag
@@ -129,49 +223,3 @@ vaak in de buurt van [[cotton-wool spots]] (daar is ischemie)
 > komen uit normale vaten, typisch ook wat groter kaliber en donkerder (dieper in de retina)
 
 ![[Pasted image 20240605202320.png]]
-
-### proliferatieve diabetische retinopathie
-nieuwe vaten gaan gepaard met fibrose
-New vessels at the disk (NVD): op of binnen 1 papildiameter van papil
-NVE: vaatnieuwvorming verder weg van papil
-[[rubeosis iridis]] kan ook optreden en geeft grote kans op [[neovasculair glaucoom]]
-
-neo's kleuren vroeg aan op FAG! Met late lekkage.
-
-NVD:![[Pasted image 20240605202848.png]]
-
-NVE:
-![[Pasted image 20240605202931.png]]
-
-### kliniek
-oculaire complicaties
-Vaak voorkomend:
-- diabetisch macula oedeem
-- macula ischemie -> hierbij neo's, bloedingen, loslatingen
-- kleine iris defecten (soort [[Iris atrofie]]?)
-- refractie onstabiel (afhankelijk van suiker)
-
-zeldzamer: xanthelasma, versneld cataract, [[neovasculair glaucoom]], [[Neurotrofe keratopathie]]
-
-### behandeling
-suikers instellen
-cardiovasculair risicomanagement
-
-DME: anti-VEGF
-als er ook neo's zijn: eerst vocht weg met IVI's, dan verdere neo's voorkomen met laser.
-PDT: blijft relevant, met name wanneer exudaten fovea bedreiden
-
-Panretinale laser blijft relevant voor proliferatieve DRP, maar anti-VEGF's even effectief?
-
-### advanced disease
-gekenmerkt door 
-- bloedingen: retrohyalien of in het glasvocht ![[Pasted image 20240605220225.png]]
-- tractionele ablatio's -> vaak met bloedingen: uit neo's
-- [[rubeosis iridis]]
-
-Indicaties pars plana vitrectomie:
-- aanhoudende bloedingen
-- progressief tractionele ablatio
-- retrohyaloïd bloed voor macula
-- anterior segment neo's?
-

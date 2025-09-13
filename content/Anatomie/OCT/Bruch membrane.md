@@ -2,7 +2,7 @@
 
 bestaat uit 5 lagen:
 - RPE basaal membraan
-	- tussen deze lagen: stapelen [[Drusen|drusen]] zich op!
+	- boven of onder hiervan: stapelen [[Drusen|drusen]] zich op!
 - binnenste collagene zone
 - centrale elastische band
 - buitenste collagene zone

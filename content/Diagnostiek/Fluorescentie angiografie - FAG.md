@@ -9,7 +9,11 @@ Fluorescensie: capaciteit van een stof om lange golflengte af te geven, wanneer 
 - groen licht opgevangen
 
 > [!important]  
-> FAG test de integriteit van 2 arteriële retinale systemen: 1) de choroïdale vaten onder RPE (voorzien door PCA) en 2) de intra-retinale vaten (voorzien door ACR)  
+> FAG test de integriteit van 2 arteriële retinale systemen: 1) de choroïdale vaten onder RPE (voorzien door PCA) en 2) de intra-retinale vaten (voorzien door ACR).
+> 
+> Fluorescine is kleiner dan bloed: het lekt eerder uit vaten dan bloed. Waar flu lekt, zal op termijn bloed kunnen volgen met alle problemen van dien. 
+ 
+
 
 ## **Anatomie:**
 

@@ -1,11 +1,10 @@
 [[Bartonella henselae]]
-kat krabt -> koorts, lymfadenopathie, lokale rode papels
-kan ook asymptomatisch
+kat krabt -> koorts, lymfadenopathie, lokale rode papels.
+kan ook asymptomatisch.
 5-10% oog betrokken!
 
 #### kliniek
-neuroretinitis
-stervormige macula exudaten
+neuroretinitis: [[macular star]] = stervormige macula exudaten
 
 #### behandeling
 [[doxycycline]]

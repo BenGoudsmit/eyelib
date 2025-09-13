@@ -1,5 +1,5 @@
-klachten afhankelijk van locatie
-als macula betrokken: plots, pijnloze wazige visus, metamorfopsie
+klachten afhankelijk van locatie.
+als macula betrokken: plots, pijnloze wazige visus, metamorfopsie.
 
 ![[Pasted image 20240606080112.png]]
 
@@ -18,9 +18,14 @@ In fundo:
 
 ![[Pasted image 20240606080854.png]]
 
+#### diagnostiek
+FAG maken: 
+- om mate van ischemie te beoordelen.
+- als atypisch jonge leeftijd: contralaterale oog beoordelen op eventuele vasculitis. #Missotten 
+
 #### behandeling
-als visus redelijk is (6/9e) dan expectatief
-laser hypoxische gebieden
+als visus redelijk is (6/9e) dan expectatief: elke 3 maanden vervolgen en er geen neos vormen. 
+Als hypoxische gebieden: laser. 
 [[anti-VEGF injecties]]
 
 #### prognose
@@ -31,3 +36,4 @@ slechte prognose:
 - chronisch macula oedeem
 - maculaire BRVO
 - neo's met glasvochtbloedingen
+- [[rubeosis iridis]]

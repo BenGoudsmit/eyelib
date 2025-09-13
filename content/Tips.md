@@ -1,0 +1,1 @@
+Overdracht: bekijk plaatjes van relevante ziekte in AAO: kort en bondige omschrijving van het fundusbeeld. 

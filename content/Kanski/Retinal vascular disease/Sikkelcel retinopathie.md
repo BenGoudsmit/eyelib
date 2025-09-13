@@ -3,8 +3,8 @@ aliases:
   - sickle cell retinopathy
 ---
 
-afwijkende vorm hemoglobine
-hierdoor occlusie en verminderde flow -> retinale ischemie
+afwijkende vorm hemoglobine.
+hierdoor occlusie en verminderde flow -> retinale ischemie.
 hier kan netvlies op reageren:
 
 
@@ -17,14 +17,14 @@ salmon patches (oppervlakkige intraretinale bloedingen) en black sunbursts (RPE 
 
 
 ### proliferatief
-upregulatie van VEGF door ischemie -> neovascularisatie
-meestal onopvallend, soms glasvochtbloedingen als eerste uiting
+upregulatie van VEGF door ischemie -> neovascularisatie.
+meestal onopvallend, soms glasvochtbloedingen als eerste uiting.
 
-fase 1: perifere arteriole occlusie (door sikkelcellen)
-fase 2; anastomoses daar
-fase 3: 'sea fan' neovascularisaties
-fase 4: bloedingen uit neo's
-fase 5: netvliesloslatingen
+- fase 1: perifere arteriole occlusie (door sikkelcellen)
+- fase 2; anastomoses daar
+- fase 3: 'sea fan' neovascularisaties
+- fase 4: bloedingen uit neo's
+- fase 5: netvliesloslatingen
 
 | Goldberg  |                                                                                                                                                                                                                 |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

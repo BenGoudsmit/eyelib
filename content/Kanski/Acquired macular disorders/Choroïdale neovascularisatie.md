@@ -3,10 +3,16 @@ aliases:
   - CNV
 ---
 
+> [!NOTE] [[maculaire neovascularisatie|MNV]] wanneer in de macula
+
 bloedvaten vanuit chorocapillairen, door Bruch membraan heen, in de 
 type 1: tussen [[Bruch membrane]] en [[Retinal pigment epithelium|RPE]] 
 type 2: subretinale ruimte
-(type 3: [[Retinal angiomatous proliferation|RAP]]?)
+(type 3: [[Retinal angiomatous proliferation|RAP]])
+
+Belangrijk om de brede DD te beseffen:
+
+![[Pasted image 20250608183004.png]]
 
 geassocieerd met veel oorzaken, meest voorkomend AMD en myope degeneratie
 VEGF bindt aan endotheel, veroorzaakt proliferatie en lekkage
@@ -54,7 +60,7 @@ classificatie obv locatie (zie ook intro)
 zie [[anti-VEGF injecties]]
 
 ### PDT - fotodynamische therapie
-trombose induceren tussen geïnjecteerde stof en de laser
-verteporfine: wordt opgenomen door delende cellen (neovascularisaties)
-sinds opkomst anti-VEGF, vooral in combinatie als IVI's niet werken
+trombose induceren tussen geïnjecteerde stof en de laser.
+[[verteporfine]]: wordt opgenomen door delende cellen (neovascularisaties).
+sinds opkomst anti-VEGF, vooral in combinatie als IVI's niet werken.
 
