@@ -1,7 +1,7 @@
-arteritische anterior ischemische opticus neuropathie
-[[Arteria ciliaris posterior|PCA]] brevis takken ontsteken -> tromboseren (meestal mediale takken)
-veroorzaakt door [[Giant cell arteritis]], 50% heeft ook [[polymyalgia rheumatica]] 
-GCA niet behandelen -> 30-50% AAION
+- arteritische anterior ischemische opticus neuropathie
+- [[Arteria ciliaris posterior|PCA]] brevis takken ontsteken -> tromboseren (meestal mediale takken)
+- veroorzaakt door [[Giant cell arteritis]], 50% heeft ook [[polymyalgia rheumatica]] 
+- GCA niet behandelen -> 30-50% AAION
 
 > [!danger] 33% ontwikkelt dan AAION in andere oog, binnen 1 week
 > 50% binnen 2 weken

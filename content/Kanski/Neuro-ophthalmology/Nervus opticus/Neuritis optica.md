@@ -1,5 +1,6 @@
 indelen obv uiterlijk in fundo:
-- retrobulbair: meest voorkomend, bijvoorbeeld MS
+- **retrobulbair: meest voorkomend, bijvoorbeeld MS**
+	- en dan dus GEEN papilzwelling te zien!
 - papillitis: meest voorkomend in kinderen
 - neuroretinitis: zeldzaam, papil en RNFL ontstoken, soms [[macular star]] te zien
 ![[Pasted image 20240702072951.png]]

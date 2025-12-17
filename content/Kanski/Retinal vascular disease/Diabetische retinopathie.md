@@ -1,38 +1,48 @@
 ---
 aliases:
   - DRP
+
+tags:
+  - MR
+  - AAO
 ---
 ### Introductie
-DM1 -> 99% retinopathie.
-DM2 -> 60% retinopathie. 30% hiervan slechte visuele prognose.
-~40% diabeten -> DRP
-- type 1: 50%
-- typ2: 30%
+Wereldwijd: 33% van diabeten heeft retinopathie. 
+- 33% hiervan heeft visusverlies.
+- meestal door macula oedeem.
 
-als DM1: 90% binnen 30 jaar.
+Wisconsin epidemiology studie:
+- binnen 20j DM1 -> 99% retinopathie.
+	- 50% hiervan proliferatieve ziekte.
+- binnen 20j DM2 -> 60% retinopathie. 30% hiervan slechte visuele prognose.
+	- 25% hiervan proliferatieve ziekte.
+
 macula oedeem leidt vaakst tot zichtverlies.
 30% van DRP leidt tot visus-bedreigende vorm.
 
+*proliferatief*: 
+- fibrovasculaire complexen voorbij [[inner limiting membrane]]
+- bloeden en contraheren makkelijk.
+
 > [!NOTE] Centraal probleem is verminderde kwaliteit vaatwanden!
-> Endotheelschade en pericytverlies.
+> Eerst pericytverlies: micro-aneurysmata.
 > 
-> Hierdoor vaatveranderingen, stase, lekkage (bloed, metabolieten), etc.
-> 
-> Daarna ischemie.
+> Daarna endotheel basaalmembraan verdikking: afname lumen geeft occlusie en ischemie.
 > 
 > Uiteindelijk [[angiogenese]].
-
-
+> 
+> Deze vaten bloeden en contraheren makkelijk.
+> 
+> Endotheel verlies van barrierefunctie: lekkage (OEDEEM, bloed, metabolieten)
+> 
 
 Risicofactoren DRP:
 - hoe lang bekend met diabetes
 - slecht gereguleerd
 - hypertensie
-- nefropathie
+- **nefropathie**
 - zwangerschap
-
-
-#### classificatie
+### classificatie
 *niet proliferatief:*
 - geen/achtergrond DRP: enkele micro-aneurysmata
 - milde DRP: bloedinkjes, [[cotton-wool spots]], exudaten
@@ -42,34 +52,22 @@ Risicofactoren DRP:
 - very severe: 2 of meer 4-2-1 criteria
 	- 45% 1-jaars kans proliferatieve DRP
 
-*proliferatief*:
+*proliferatief*: 
 - mild-moderate: neo's maar niet voldoende voor high risk
-- high risk: new vessels on disk >1/3e diameter, NVD met glasvochtbloeding, new vessels elsewhere >1/2 disk area met glasvochtbloeding
+- high risk: 
+	- elke NVD met glasvochtbloed
+	- NVD > 1/4e papil oppervlak
+	- NVE >1/2e papil oppervlak met glasvochtbloed
 
 
-> [!NOTE] Door ischemie ontstaat proliferatie
-> Ongeveer 25% van retina 'moet' ischemisch zijn voordat proliferatie optreedt
+> [!NOTE]- Aiello (2003) classificatie
+> ![[Pasted image 20250921104424.png]]
+> 
+> ![[Pasted image 20250921104527.png]]
+
 
 > [!NOTE]- ETRDS classificatie diabetische retinopathie
 > ![[Pasted image 20240605123647.png]]
-
-### niet-proliferatieve diabetische retinopathie
-
-Alle bovenstaande gevolgen van diabetes die niet voor bij die ILM reiken.
-Hoeksteen behandeling is regulatie suikers, hyperlipedimie en hypertensie.
-### proliferatieve diabetische retinopathie
-angiogenese intraretinaal, meestal naar glasvocht toe, met fibreuze complexen die kunnen bloeden en samentrekken.
-nieuwe vaten gaan gepaard met fibrose en bloedingen.
-New vessels at the disk (NVD): op of binnen 1 papildiameter van papil
-NVE: vaatnieuwvorming verder weg van papil
-[[rubeosis iridis]] kan ook optreden en geeft grote kans op [[neovasculair glaucoom]]
-
-neo's kleuren vroeg aan op FAG! Met late lekkage.
-
-NVD:![[Pasted image 20240605202848.png]]
-
-NVE:
-![[Pasted image 20240605202931.png]]
 
 #### kliniek
 oculaire complicaties
@@ -82,6 +80,7 @@ Vaak voorkomend:
 zeldzamer: xanthelasma, versneld cataract, [[neovasculair glaucoom]], [[Neurotrofe keratopathie]]
 
 ### diagnostiek
+
 als (vermoeden op) proliferatieve ziekte: FAG binnen enkele weken: vraagstelling NVE, ischemie?
 
 ### behandeling
@@ -99,8 +98,8 @@ Start anti-VEGF als visus <0.8 en klinisch significant DME.
 - Protocol AC:
 	- start avastin en switch naar Eylea even effectief als starten Eylea.
 - Protocol T:
-	- Eylea werkt beter dan Avastin of Lucentis
-	- doordat het meer verbetering geeft in slechtste visus.
+	- Eylea, Lucentis en Avastin werken even goed bij mild (0.5-0.6) visusverlies.
+	- Eylea werkt beter dan Avastin of Lucentis bij visus <0.4.
 - Protocol V:
 	- Als visus >0.7 en DME: je kunt observeren.
 	- Als dan visusvermindering starten met Eylea 
@@ -112,13 +111,20 @@ Als er ook neo's zijn: eerst vocht weg met IVI's, dan verdere neo's voorkomen me
 PDT: blijft relevant, met name wanneer exudaten fovea bedreiden
 
 [[Panretinale fotocoagulatie|PRP]] blijft relevant voor proliferatieve DRP, maar anti-VEGF's even effectief.
-Belangrijke afwegingen voor de patiënt:
+Belangrijke afwegingen voor de patiënt: #Missotten 
 - we kunnen PRP geven en hierdoor het risico op lekkende of bloedende bloedvaten sterk verminderen.
 	- hierdoor wordt het centrale zicht wellicht goed behouden maar versmalt de breedte van het blikveld naar 50-60 graden centraal. 
 	- Als het andere oog niet goed is betekent dit dat je rijbewijs waarschijnlijk niet verlengt wordt.
 - ook kunnen we anti-VEGF geven
 	- hier zul je dan (levens)lang mee door moeten gaan, op het begin elke maand een prik en daarna uitbreiden als we zien dat het lekken van vocht weg blijft.
 
+### prognose
+
+Ziek ook Aiello classificatie tabel. 
+
+pDRP: #Martinez 
+- 75% kans slecht zien zonder behandeling
+- 5% kans slecht zien met behandeling (PRP, anti-VEGF, etc)
 ### advanced disease
 gekenmerkt door 
 - bloedingen: retrohyalien of in het glasvocht 
@@ -161,6 +167,7 @@ bovenstaande geeft:
 
 ### tekens
 
+##### niet-proliferatieve tekens
 #### [[microaneurysmata]]:
 - pericyten sterven af -> minder steun -> verbreding vat 
 - of doordat vaten kunnen aan elkaar groeien
@@ -223,3 +230,10 @@ vaak in de buurt van [[cotton-wool spots]] (daar is ischemie)
 > komen uit normale vaten, typisch ook wat groter kaliber en donkerder (dieper in de retina)
 
 ![[Pasted image 20240605202320.png]]
+
+##### proliferatieve tekens
+
+NVD:![[Pasted image 20240605202848.png]]
+
+NVE:
+![[Pasted image 20240605202931.png]]

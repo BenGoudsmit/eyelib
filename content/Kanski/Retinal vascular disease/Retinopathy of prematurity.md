@@ -6,6 +6,12 @@ aliases:
   - retinopathie bij prematuren
 ---
 ### Pathofysiologie:
+
+> [!NOTE] Everest in utero
+> Normale zwangerschap: gestage, gecontroleerde groei van vasculatuur in utero.
+> Door vroege geboorte en verstoring O2: stop vaatgroei en excessief VEGF.
+> Hierna snelle, ongecontroleerde vaatgroei. 
+
 - retinale vaten beginnen te ontwikkelen in 4e maand zwangerschap
 	- vanuit papil naar perifeer
 	- nasaal na 8 maanden zwangerschap aangelegd
@@ -33,7 +39,13 @@ beschrijft abnormale vaten versus normale vaten
 - stadium 5:
 	- gehele ablatio
 
-'Plus' ziekte: met tortueuze vaten
+'Plus' ziekte: 
+- endotheel beschadigd door schommelingen O2 en hoge VEGF concentratie
+- hierdoor Virchow's triad
+	- tortueuze arteriën door slechtere doorstroming
+	- dilatatie venen door slechtere doorstroming
+	- ernstiger beloop hypoxemie
+	- meer anti-VEGF en dus grotere kans complicaties
 
 Type 1 ziekte: binne 72u behandelen
 

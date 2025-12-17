@@ -1,3 +1,9 @@
+---
+tags:
+  - MR
+  - AAO
+---
+
 # Niet-ischemisch CRVO
 veneuze stase, maar geen (aanwijsbare) ischemie van de retina
 vaker voorkomend dan ischemisch
@@ -9,6 +15,7 @@ definitie:
 - geen of milde RAPD
 - milde veranderingen gezichtsveld (geen full blown scotoom)
 
+16% (4 maanden) en 34% (3 jaar) kans op conversie naar ischemisch.
 ### kliniek
 plots, pijnloze visusdaling
 RAPD mild of afwezig
@@ -28,7 +35,19 @@ definitie:
 
 In fundo ernstiger dan non-ischemisch.
 Meestal trombus bij of voor lamina cribrosa. 
-Prognose: 10% ziet >0.05 volgens CVOS (jaren 90). 
+
+#### Prognose 
+CVOS:
+- Natuurlijk beloop: 10% ziet >0.05. 
+- 5% retinale neo's 
+- 60% NVI
+	- visus op baseline is belangrijkste voorspeller ontwikkelen NVI. 
+		- daarna mate van ischemie 
+		- daarna intraretinaal bloed.
+	- ontstaat tussen 2 weken en 6 maanden, piek op 2 maanden.
+	- "100-day glaucoma"
+	- PRP voorkomt NVI niet: 20% in profylactisch gelaserden. 
+
 
 #### kliniek 
 meer dan 10 disk diameter retinale hypoperfusie, afsluitende capillaire, retinale ischemie
@@ -47,11 +66,11 @@ alle kwadranten: diepe en oppervlakkige bloedingen, cotton-wool spots
 #### AO
 FAG: vertraagde transit tijd, hypoperfusie capillairen retina, vaatlekkage
 
-FAG-ICG maken om uit te sluiten of andere oog niet is betrokken: dan denken aan vasculitis. 
+FAG-ICG maken om uit te sluiten of andere oog niet is betrokken: dan denken aan vasculitis. #Missotten 
 Kijk naar:
 - neovascularisaties
 - Aneurysmata: verhoogde druk in bloedvaten -> piekdruk van hypertensie. 
-
+	
 #### DD
 - [[hyperviscose retinopathie]]
 - [[Oculair ischemisch syndroom]]: maar dan zijn de venen NIET tortueus, wel gezwollen.
@@ -62,20 +81,29 @@ CRVO variant waarbij superior of inferior tak is uitgevallen
 klinisch: corresponderend altitudinaal verlies
 
 # Behandeling CRVO complicaties
+
+**Bloeddruk en cardiovasculair risicomanagement via huisarts of internist**
+
 bij ischemisch CRVO: agressief zijn!
 
 macula oedeem:
 - als visus <6/9e
 	- als <1/20e, geen nut
 - als oedeem dikte >250 micron
-
-[[anti-VEGF injecties]], [[ozurdex]]
-Laser verbertert anatomisch, maar functioneel is twijfelachtig
+- [[anti-VEGF injecties]] 
+	- SCORE2: Avastin niet slechter dan Eylea.
+	- BRAVO/CRUISE: Lucentis effectief. 
+- [[ozurdex]]
+	- anti-VEGF werkt beter
+		- als anti-VEGF niet werkt, of als pseudofaak toch overwegen.
+	- maximale effect na 60 dagen.
+	- 20-65% IOP verhoging.
+- Laser verbertert anatomisch, maar functioneel is twijfelachtig
 
 Neovascularisaties:
 - laser
 - [[anti-VEGF injecties]] geven snellere resorptie neo's
 - cave [[neovasculair glaucoom]]
 
-cardiovasculair risicomanagement via huisarts of internist
+
 

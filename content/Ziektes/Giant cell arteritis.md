@@ -1,9 +1,9 @@
-<font color="#ff0000">granulomateuze</font>, necrotiserende onsteking in (grotere) bloedvaten <font color="#ff0000">in ouderen</font>.
-meest voorkomende primaire vasculitis in volwassenen.
-door ontstekingsccellen occluderen vaten -> ischemie.
-hoe meer elastische weefsels in vaten: hoe meer ontsteking.
-50% heeft ook [[polymyalgia rheumatica]] (spierpijn proximaal, meeste bij wakker worden).
-reageert uitstekend op prednison.
+- <font color="#ff0000">granulomateuze</font>, necrotiserende onsteking in (grotere) bloedvaten <font color="#ff0000">in ouderen</font>.
+- meest voorkomende primaire vasculitis in volwassenen.
+- door ontstekingsccellen occluderen vaten -> ischemie.
+- hoe meer elastische weefsels in vaten: hoe meer ontsteking.
+- 50% heeft ook [[polymyalgia rheumatica]] (spierpijn proximaal, meeste bij wakker worden).
+- reageert uitstekend op prednison.
 > [!danger] Snelle uitval en uitbreiding
 > Presentatie met snelle visusdaling, andere oog binnen dagen betrokken.
 

@@ -8,6 +8,7 @@ splijting retina bij [[Outer plexiform layer]]
 - [[Exudatieve ablatio]]
 - [[Juvenile X-Linked Retinoschisis]]
 - [[Centraal sereuze chorioretinopathie]]
+- [[Multiple sclerose|multiple sclerosis]] als blaas inferior. (Misssotten)
 
 ![[Pasted image 20241017100841.png]]
 

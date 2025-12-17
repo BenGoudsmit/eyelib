@@ -6,6 +6,7 @@ aliases:
 acute of chronische vorm. 
 Veel voorkomende theorie:
 - hyperpermeabel choroïd: verdikt. 
+	- waarschijnlijk door veneuze insufficiënte: uitstroom weerstand te hoog.
 - hierbij vocht lekkage langs RPE
 - vocht hoopt zich op tussen RPE en retina
 - sereuze ablatio
@@ -32,7 +33,7 @@ meerdere gedepigmenteerde RPE foci en atrofie zijn wss oude, geheelde plekken
 je ziet ook: vocht kan uitzakken (zwaartekracht): descending tracks.
 
 > [!NOTE] PEL versus lokale ablatio onderscheid met spleetlamp
-> Schijn met je spleetlamp nauwe bundel net naast of op de grens van de PEL: dan zie je de PEL zelf oplichten, een ablatio doet dit niet!
+> Schijn met je spleetlamp nauwe bundel net naast of op de grens van de PEL: dan zie je de PEL zelf oplichten, een ablatio doet dit niet! #Schouten
 
 #### prognose
 beloop:
@@ -78,8 +79,14 @@ PDT is behandeling:
 - met laser stimulatie 
 - vrije zuurstof radicalen
 - beschadigen vasculatuur.
+		- vermindert dikte choroïd
+		- vermindert hyperpermeabiliteit
+		- afname subretinaal vocht.
 	- 80% reageert op eerste PDT, controle na 6w en 12w.
 	- 20% die overblijft: 80% hiervan reageert op latere PDT.
+
+> [!NOTE] anti-VEGF!
+> 20% boven 50j heeft bijkomende CNV: dan dus behandelen met anti-VEGF.
 
 eventueel [[spironolacton]] (maar RCT toonde geen voordeel).
 
@@ -89,11 +96,7 @@ staken steroïden!
 
 
 ### DD 
-- natte[[Age-related macular degeneration|AMD]]
-
-> [!NOTE] Onderscheid natte AMD en CSCR
-> Beiden hebben SRV op OCT. Maar bij CNV is er ook vaak bloed.
-
+- natte [[Age-related macular degeneration|AMD]]
 - [[Polypoïdale choroïdale vasculopathie|PCV]]
 - [[Vogt-Koyanagi-Harada syndroom - VKH]]: dan gepaard met ontsteking en bilateraal.
 - [[Pigment epitheel loslating|PEL]]

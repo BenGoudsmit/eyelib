@@ -1,4 +1,0 @@
----
-aliases:
-  - s-shaped ptosis
----

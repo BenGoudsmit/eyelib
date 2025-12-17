@@ -1,16 +1,19 @@
 manifest scheelzien, niet te corrigeren door fusie
 
+Classificatie:
+- comitant (constante hoeken) of niet comitant
+- congenitaal of verworven
 ## Early-onset esotropie
 tot 4 maanden is wat afwijking normaal, hierna afwijkend
 - idiopathische esotropie binnen 1e 6 maanden
 - meestal grote (>30prisD) en stabiele hoek
 - fixerende oog kijkt vaak recht (kan dus wisselen)
 - onderscheiden van abductie defecten
-- inferior oblique overactivatie kan ontwikkelen
+- inferior oblique overactivatie kan ontwikkelen: meestal na 1e jaar.
 > [!question]- Waarom IOL overactivatie bij esotropie?
 > [[musculus obliquus inferior]] geeft abductie? Snap het niet echt, want geen LR overactivatie?
 > ![[Pasted image 20240625112743.png]]
-- verticale deviatie bij dissociëren van ogen (afdekken) in 80%
+- verticale deviatie bij dissociëren van ogen (afdekken) in 80%: ook meestal pas later.
 > [!question]- wat zie je bij DVD?
 > ![[Pasted image 20240625113244.png]]
 ### behandeling

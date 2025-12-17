@@ -1,7 +1,48 @@
+---
+aliases:
+  - veneuze stamocclusie
+
+tags:
+  - MR
+  - AAO
+---
+
+#### introductie 
 klachten afhankelijk van locatie.
 als macula betrokken: plots, pijnloze wazige visus, metamorfopsie.
+- 36% ontwikkelt neo's op grens ischemie.
+	- 60-90% hiervan gaat bloeden zonder PRP
+	- PRP verlaagt risico op bloeding van 60 naar 30%.
+- 2% NVI (i.t.t. 60% bij [[CRVO]])
+	- focale laser om [[neovasculair glaucoom]] te voorkomen.
 
-![[Pasted image 20240606080112.png]]
+FAG als >5 disk diameters ischemie!
+#### prognose
+50-60% redelijk, ook zonder interventie
+25% ziet 0.1
+andere oog ook iets verhoogd (wat logisch is gezien het cardiovasculair risico)
+slechte prognose:
+- chronisch macula oedeem
+- maculaire BRVO
+- neo's met glasvochtbloedingen
+- [[rubeosis iridis]]
+
+#### diagnostiek
+
+FAG maken <1 week: 
+- om mate van ischemie te beoordelen.
+- als atypisch jonge leeftijd: contralaterale oog beoordelen op eventuele vasculitis. #Missotten 
+
+#### behandeling
+
+**Bloeddruk en CVRM via huisarts! trombus had zich ook elders kunnen vormen...**
+
+> [!NOTE] Diagnose BRVO stellen = direct beginnen met behandeling: avastin.
+> Eventueel een FAG binnen 1 week om eventuele atypische oorzaak vast te stellen, of mate van ischemie vast te stellen.  
+
+- als visus redelijk is (>60%) dan expectatief: elke 3 maanden vervolgen of er geen neos vormen. 
+- Als hypoxische gebieden: laser. 
+- [[anti-VEGF injecties]]
 
 #### kliniek
 In fundo:
@@ -17,23 +58,3 @@ In fundo:
 
 
 ![[Pasted image 20240606080854.png]]
-
-#### diagnostiek
-FAG maken: 
-- om mate van ischemie te beoordelen.
-- als atypisch jonge leeftijd: contralaterale oog beoordelen op eventuele vasculitis. #Missotten 
-
-#### behandeling
-als visus redelijk is (6/9e) dan expectatief: elke 3 maanden vervolgen en er geen neos vormen. 
-Als hypoxische gebieden: laser. 
-[[anti-VEGF injecties]]
-
-#### prognose
-50-60% redelijk, ook zonder interventie
-25% ziet 0.1
-andere oog ook iets verhoogd (wat logisch is gezien het cardiovasculair risico)
-slechte prognose:
-- chronisch macula oedeem
-- maculaire BRVO
-- neo's met glasvochtbloedingen
-- [[rubeosis iridis]]

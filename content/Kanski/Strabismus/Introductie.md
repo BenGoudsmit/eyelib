@@ -1,4 +1,23 @@
-strabisme: visuele assen van ogen niet parallel
+fusie: 
+- ogen fixeren beeld op corresponderende fovea's.
+- hoogste doel is stereopsis: indruk van diepte door horizontaal beeldverschil.
+- dit mechanisme kost energie!
+
+strabisme: 
+- visuele assen van ogen niet parallel.
+- 1 oog fixeert de fovea (dominant oog, of wisselen)
+- 1 oog fixeert niet de fovea
+
+diplopie: 1 object valt op verschillende plekken: lijkt dubbel.
+- tropie: scheefstand is niet te fuseren
+	- klachten: altijd dubbelzien
+	- cover test: subtielere tropie zichtbaar
+- forie: scheefstand is meestal te fuseren
+	- komt tot uiting als fusie wordt gebroken
+	- bij vermoeidheid, stress, alcohol etc..
+	- klachten: meestal geen dubbelzien, maar bijvoorbeeld 's avonds.
+	- dus alternerende cover test
+
 
 ogen coördineren samen om binoculair enkel zicht te krijgen
 

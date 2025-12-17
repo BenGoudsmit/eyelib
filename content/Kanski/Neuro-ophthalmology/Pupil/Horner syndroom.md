@@ -1,3 +1,4 @@
+sympatische neuronen: denk aan de lange anatomische weg!
 
 > [!NOTE]- [dr. Lee uitleg](https://www.youtube.com/watch?v=4yOjFncpZdQ&ab_channel=Neuro-OphthalmologywithDr.AndrewG.Lee)
 > ![[Pasted image 20240707112658.png]]

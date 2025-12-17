@@ -1,5 +1,13 @@
 voor algemene feiten zie [[Toxoplasmosis gondii]]
 
+
+> [!NOTE] Behandeling recurrence
+> Start 960 mg 2 x bactrimel 28d
+> Start PF 40-30-20-10 mg elke week 1tablet 
+> Start  omeprazol 20mg 1 dd 
+> Predforte 3 dd aanhouden
+
+
 #### kliniek
 oculair: 20-60% uveïtis posterior
 - veel laesies zijn vanaf congenitale fase

@@ -15,7 +15,7 @@ Snowballs, periflebitis, snowbanking
 #### aanvullend onderzoek
 OCT belangrijk (ook onderscheiden [[cystoïd macula oedeem]]) 
 FLU
-specifieke anamnese [[multiple sclerose]], sarcoïdose, Lyme, TBC, [[Syfilis]]
+specifieke anamnese [[Multiple sclerose]], sarcoïdose, Lyme, TBC, [[Syfilis]]
 
 #### behandeling
 - regionale steroïden (orbita bodem of sub-Tenon), topicale steroïden alleen als anterior ook betrokken

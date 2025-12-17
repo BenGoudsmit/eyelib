@@ -1,10 +1,15 @@
 [anatomie overzicht](https://www.youtube.com/watch?v=6oEn5m3-2sE&ab_channel=AnatomyKnowledge)
 
 > [!NOTE] Oorzaken
-> - microvasculair (40% = diabetes en hypertensie)
-> - aneurysma (vaak arteria communicans posterior)
+> - microvasculair (40% = diabetes en hypertensie): pupil hoeft niet betrokken te zijn!
+> - aneurysma (vaak arteria communicans posterior): pupil altijd betrokken!
 > - trauma
 > - overig
+
+
+> [!NOTE] Parasympatische vezels meestal aan de buitenzijde
+> Klinische relevantie: bij compressie van buitenaf (aneurysma, tumor) is altijd pupil aangedaan.
+> Bij microvasculaire oorzaak (vanuit diepe vaten in zenuw) kan pupil nog niet zijn aangedaan!
 
 in geel de nervus oculomotorius
 in groen de parasympathische vezels

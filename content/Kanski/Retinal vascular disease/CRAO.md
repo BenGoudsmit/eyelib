@@ -1,8 +1,23 @@
+---
+tags:
+  - MR
+  - AAO
+---
+
 pijnloos vergaand of compleet visus verlies mono-oculair.
 tenzij [[arteria cilioretinale]] macula nog voorziet.
-pijn: [[Giant cell arteritis]] uitsluiten! 1-2% van de gevallen.
-prognose is slecht: 66% ziet <0.05.
-18% ziet > 0.5: met name door [[arteria cilioretinale]].
+pijn: [[Giant cell arteritis]] uitsluiten! 1-2% van de gevallen boven 55 jaar.
+
+#### prognose
+- visus: 
+	- 75% presentatie vingers tellen of slechter
+	- 66% ziet <0.05.
+	- 18% ziet > 0.5: met name door [[arteria cilioretinale]].
+- 18% NVI binnen 12 weken.
+	- PRP voorkomt NVI in 66%.
+- 78% heeft onderliggend cardiovasculair lijden: rationale TIA screening.
+	- 7d dagen na CRAO verhoogd risico op myocardinfarct
+- 31% heeft gelijktijdige cerebrale infarcten op MRI: rationale TIA screening. 
 
 
 > [!NOTE] GCA lab: met name verhoogde bloedplaatjes suggestief

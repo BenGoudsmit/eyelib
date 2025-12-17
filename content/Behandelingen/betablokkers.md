@@ -25,7 +25,7 @@ systemisch:
 - vaker vallen bij ouderen
 - depressie, verminderde krachtinspanning, hoofdpijn
 - alopecia
-- [[myasthenia gravis]] verergeren
+- [[Myasthenia gravis]] verergeren
 
 Timolol
 betaxolol: minder hypotensief effect, minder bronchospasmen

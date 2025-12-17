@@ -23,3 +23,7 @@ Cornea:
 
 > [!danger] Contraindicaties!
 > [[hyfeem]] en [[sikkelcel anemie]]
+> 
+> Relatief: [[diabetes mellitus type 2]]
+
+

@@ -1,5 +1,27 @@
 goed filmpje over anatomie: https://www.youtube.com/watch?v=yh8z0_cEWWg
-afferente deel eindigt bij de olijfvormige pretectale nuclei
+
+
+> [!NOTE] Miosis is parasympatisch mechanisme!
+> minder licht in ogen: meer rust, geen actie nodig.
+
+![[Pasted image 20240704072313.png]]
+
+Afferente deel:
+- intrinsically sensitive retinal ganglion cells
+- neuronen reizen mee met nervus opticus
+	- signale van staafjes en kegels gaan naar [[nucleus geniculatum laterale]]
+- isRGC vezels gaan naar colliculus superior (reflexmatige visus coördinatie)
+- pretectale (olijfvormige) nucleus: verbinden elk met bilaterale EW!
+---
+- start efferente deel: [[Edinger-Westphal nucleus]] 
+	- geeft preganglionaire, parasympatische vezels af
+- reizen mee met [[Nervus oculomotorius]]
+- naar [[ganglion ciliare]]: parasympatische kern.
+	- vanaf hier postganglionaire parasympatische vezels
+- Nervus ciliaris brevis
+- innervatie:
+	- 5% musculus sfincter pupillae
+	- 95% musculus ciliare
 ![[Pasted image 20240828145309.png]]
 deze verbinden beiderzijds met Edinger-Westphal nuclei: hier start het efferente (motorische) deel
 ![[Pasted image 20240829132949.png]]

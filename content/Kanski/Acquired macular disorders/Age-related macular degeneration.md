@@ -19,7 +19,7 @@ wereldwijd grootste veroorzaker visusverlies >50 jaar.
 	- vasculair: [[maculaire neovascularisatie]] 
 
 droog: geen neo's, vergevorderde vorm: geografische atrofie.
-nat: neo's -> hierbij complicaties zoals [[Choroïdale neovascularisatie|CNV]], [[Pigment epitheel loslating|PEL]], [[Polypoïdale choroïdale vasculopathie|PCV]], [[Retinal angiomatous proliferation|RAP]].
+nat: drusen beschadigen Bruch -> neo's -> [[Choroïdale neovascularisatie|CNV]], [[Pigment epitheel loslating|PEL]], [[Polypoïdale choroïdale vasculopathie|PCV]], [[Retinal angiomatous proliferation|RAP]].
 beide vormen kunnen naast elkaar bestaan.
 
 Gradering: grootte van drusen en mate van RPE alteraties en atrofie.
@@ -52,6 +52,15 @@ risicofactoren:
 		- roken
 		- gezond eten
 	- CVRM
+#### prognose
+droge AMD:
+- categorie 2 -> 4: 1.3% na 5j. 
+- categorie 3 -> 4: 18% na 5j.
+- categorie 4: 12-20% ernstig visusverlies.
+- AREDS: 
+	- 25% verminderde progressie vanaf categorie 2. naar 4.
+	- 19% vermindering ernstig gezichtsverlies. 
+	- 2->4 of 3->4: 23% minder kans over 10 jaar.
 
 #### kliniek
 langzame achteruitgang visus over de jaren.
@@ -61,10 +70,14 @@ RPE atrofie.
 Geografische atrofie: onderliggende choroïdale vaten zichtbaar.
 drusenoïde netvliesloslating [[Pigment epitheel loslating|PEL]].
 
+> [!NOTE] GA spaart initieel de fovea
+> Patiënten kunnen vrij plots hun laatste centrale eilandje verliezen...
+
+
 [[Drusen]].
 - AREDS:
-	- kleine drusen of weinig medium drusen: 1.3% 5-jaarskans om late AMD te ontwikkelen.
-	- GA, veel medium of 1 grote druse: 18% kans.
+	- kleine drusen of weinig medium drusen: **1.3% 5-jaarskans** om late AMD te ontwikkelen.
+	- GA, veel medium of 1 grote druse: **18% kans**.
 - zachte, confluerende drusen: grootste risico op [[maculaire neovascularisatie|MNV]] 
 
 RPE alteraties.
@@ -154,6 +167,10 @@ FAG beeld afhankelijk van type [[maculaire neovascularisatie|MNV]]:
 - Occult: meer diffuus hyperflu
 	- PEL sereuze of fibrovasculaire vorm: snelle pooling met hotspot. 
 	- late lekkage van onbekende bron
+- Gemengd
+	- vroege lintvormige heldere lekkage en later meer diffuus plaque.
+- RAP
+	- focal hot spot met lekkage.
 
 
 > [!NOTE] OCT natte AMD versus [[Centraal sereuze chorioretinopathie|CSCR]]
