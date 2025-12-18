@@ -11,8 +11,8 @@ deposities van axonaal metabolisme
 gecalcificeerde deposities in op zenuw
 tot 2% van populatie (dan 75% bilateraal)
 
-### kliniek
 
+### kliniek
 meestal geen symptomen, soms door 'crowding' kortdurende ischemie
 intieel kunnen ze 'begraven' liggen en dus niet opvallen (tenzij autoflu of FAG)
 lijkt dan op papiloedeem! typisch in kinderen
