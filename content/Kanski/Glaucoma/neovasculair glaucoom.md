@@ -30,6 +30,7 @@ geen miotica
 > [!NOTE] onderliggende oorzaak behandelen
 
 panretinale laser
-[[anti-VEGF injecties]]
+[[anti-VEGF injecties]] (met name bij ME)
 netvliescheuren laser
+TCP uitstroom verbeteren. 
 vitrectomie wanneer glasvochtbloeding bij CRVO

@@ -8,6 +8,7 @@ meestal granulomateuze uveïtis anterior
 - [[Keratitische precipitaten]] als [[Mutton fat]] 
 - trabekelsysteem nodules, kan met [[perifere anterior synechiae]]
 - glasvocht ontstekingscomplexen: snowballs of strengen
+
 ![[Pasted image 20240603093802.png]]
 
 choroïdale en retinale uitingen zijn wisselend
@@ -24,12 +25,14 @@ rondom oogleden kunnen weefsels ook zijn aangedaan (traanklieren, vet)
 ten minste 5 dingen waardevol:
 1. negatieve TBC test
 2. verhoogd [[Angiotensine converting enzyme - ACE]] 
-3. X-thorax
-4. CT-thorax
-5. leverpanel
+3. sIL-2R verhoogd
+4. X-thorax
+5. CT-thorax
+6. leverpanel
 eventueel biopsie afnemen van verdachte laesies
 definitief: uveïtis en biopt sarcoïdose elders, anders verdacht (meer of minder) o.b.v. criteria
 
 #### behandeling
+Verwijzing naar immunoloog (EMC). 
 steroïden en immuunmodulatoren
 posterior uveïtis: gelijk systemisch steroïden en soms [[methotrexaat]], [[azathioprine]], [[adalimumab]]
